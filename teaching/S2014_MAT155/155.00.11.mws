@@ -1,0 +1,153 @@
+{VERSION 6 0 "IBM INTEL NT" "6.0" }
+{USTYLETAB {CSTYLE "Maple Input" -1 0 "Courier" 0 1 255 0 0 1 0 1 0 0 
+1 0 0 0 0 1 }{CSTYLE "" -1 256 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }
+{CSTYLE "" -1 257 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 
+258 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 259 "" 0 1 0 0 
+0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 260 "" 0 1 0 0 0 0 0 1 0 0 0 0 
+0 0 0 1 }{CSTYLE "" -1 261 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }
+{PSTYLE "Normal" -1 0 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 0 0 0 0 0 0 
+0 0 1 }0 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "Maple Output" 0 11 1 
+{CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 }3 3 0 -1 -1 -1 0 
+0 0 0 0 0 -1 0 }{PSTYLE "Maple Plot" 0 13 1 {CSTYLE "" -1 -1 "" 0 1 0 
+0 0 0 0 0 0 0 0 0 0 0 0 1 }3 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "
+" 0 256 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }0 0 0 
+-1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "" 0 257 1 {CSTYLE "" -1 -1 "" 0 1 
+0 0 0 0 0 1 0 0 0 0 0 0 0 1 }0 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }}
+{SECT 0 {EXCHG {PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 256 "" 0 "" 
+{TEXT -1 69 "MAT 155                 Project XI                       \+
+ Spring 2014" }}{PARA 257 "" 0 "" {TEXT -1 92 "                   Grap
+hing and Optimization                                                \+
+" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }{MPLTEXT 1 0 0 "" }}}{PARA 0 "" 0 "
+" {TEXT -1 1 " " }{MPLTEXT 1 0 0 "" }}{EXCHG {PARA 0 "" 0 "" {TEXT -1 
+0 "" }}{PARA 0 "" 0 "" {TEXT -1 161 "Do not forget to save your work r
+egularly both as yourname9.mws and yourname9b.mws every 10 minutes.  R
+emember to include comments explaining what you are doing." }}{PARA 0 
+"" 0 "" {TEXT -1 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 90 "This lab \+
+has four problems.  For each problem you should complete all the follo
+wing steps:" }}{PARA 0 "" 0 "" {TEXT -1 25 "a)   Define the function.
+" }}{PARA 0 "" 0 "" {TEXT -1 90 "b)   Check if the function has a vert
+ical asymptote by checking when the denominator is 0." }}{PARA 0 "" 0 
+"" {TEXT -1 41 "c)   Find the derivative of the function." }}{PARA 0 "
+" 0 "" {TEXT -1 30 "d)   Find the critical points." }}{PARA 0 "" 0 "" 
+{TEXT -1 48 "e)   Find the second derviative of the function." }}
+{PARA 0 "" 0 "" {TEXT -1 32 "f)   Find the inflection points." }}
+{PARA 0 "" 0 "" {TEXT -1 88 "g)   List all the important x values, cri
+tical numbers, inflection numbers and vertical " }}{PARA 0 "" 0 "" 
+{TEXT -1 69 "asymptotes in order and give a good domain of x values fo
+r the graph." }}{PARA 0 "" 0 "" {TEXT -1 84 "h)   If there is no asymp
+tote, find the absolute maximum and absolute minimum of the" }}{PARA 
+0 "" 0 "" {TEXT -1 87 "function using the critical points you've found
+ and the end points you chose in step f." }}{PARA 0 "" 0 "" {TEXT -1 
+83 "i)   Plot the function using the x values from step g and check th
+at the graph does" }}{PARA 0 "" 0 "" {TEXT -1 155 "indeed have the cor
+rect critical points, inflection points, global maximum and minimum, a
+nd asymptotes.  Write a comment or correct your work if necessary." }}
+{PARA 0 "" 0 "" {TEXT -1 69 "j)  Plot the graph again with a larger ra
+nge of x and write comments." }{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 
+0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 105 "By completing all o
+f these steps you will have graphed many of the important qualities of
+ the function.  " }{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 
+-1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 106 "EXAMPLE: Before doing the thre
+e problems complete this example here by hitting enter on each command
+ line:" }}{PARA 0 "" 0 "" {TEXT -1 2 "a)" }}{PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 34 "restart; f:= x -> x*(x-1)*(x+2)^2;" }{TEXT -1 0 "" }}
+}{EXCHG {PARA 0 "" 0 "" {TEXT -1 2 "b)" }}{PARA 0 "" 0 "" {TEXT -1 60 
+"There is no denominator so there are no vertical asymptotes." }
+{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 3 "c) " }}{PARA 
+0 "> " 0 "" {MPLTEXT 1 0 8 "D(f)(x);" }{TEXT -1 0 "" }}}{EXCHG {PARA 
+0 "> " 0 "" {MPLTEXT 1 0 18 "simplify(D(f)(x));" }{TEXT -1 0 "" }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT -1 2 "d)" }}{PARA 0 "> " 0 "" {MPLTEXT 1 
+0 17 "solve(D(f)(x)=0);" }{TEXT -1 0 "" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT -1 93 "These are the three critical points and I will use evalf \+
+to see their decimal approximations:" }}{PARA 0 "> " 0 "" {MPLTEXT 1 
+0 24 "evalf(solve(D(f)(x)=0));" }{TEXT -1 0 "" }}}{PARA 11 "" 1 "" 
+{TEXT -1 0 "" }}{EXCHG {PARA 0 "" 0 "" {TEXT -1 2 "e)" }}{PARA 0 "> " 
+0 "" {MPLTEXT 1 0 8 "D(D(f));" }{TEXT -1 0 "" }}}{EXCHG {PARA 0 "" 0 "
+" {TEXT -1 2 "f)" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 20 "solve(D(D(f))(x
+)=0);" }{TEXT -1 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 42 "There are
+ inflection points at 0 and -1.5." }{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 
+0 "" 0 "" {TEXT -1 4 "g)  " }}{PARA 0 "" 0 "" {TEXT -1 50 "The importa
+nt x values in order are approximately:" }}{PARA 0 "" 0 "" {TEXT -1 
+35 "-2,    -1.5,     -.84,    0,    .59" }}{PARA 0 "" 0 "" {TEXT -1 
+43 "We can choose the domain to be x in [-3,1]." }{MPLTEXT 1 0 0 "" }}
+}{EXCHG {PARA 0 "" 0 "" {TEXT -1 2 "h)" }}{PARA 0 "" 0 "" {TEXT -1 56 
+"To find the absolute max and min we check the endpoints:" }}{PARA 0 "
+> " 0 "" {MPLTEXT 1 0 11 "f(-3);f(1);" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT -1 24 "and the critical points:" }{MPLTEXT 1 0 0 "" }{TEXT -1 0 
+"" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 22 "f(-2);f(-.84); f(.59);
+" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 59 "So the absolute max occurs at
+ x=-3 and has a y value of 12." }}{PARA 0 "" 0 "" {TEXT -1 65 "The abs
+olute minimum occurs near x=.59 and has a y value of -1.6." }}}{EXCHG 
+{PARA 0 "" 0 "" {TEXT -1 2 "i)" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 20 "p
+lot(f(x), x=-3..1);" }}{PARA 13 "" 1 "" {TEXT -1 0 "" }}}{EXCHG {PARA 
+0 "" 0 "" {TEXT -1 39 "You fill in the comments for this part." }}
+{PARA 0 "" 0 "" {TEXT -1 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 261 192 
+"Do the following problems on yourname11.mws.  Be sure to put the lett
+ers marking each step and to add comments just as in the example.  Cut
+ting and pasting commands will help you work faster. " }}{PARA 0 "" 0 
+"" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT 260 10 "Problem 1:" }{TEXT 
+-1 35 "   Graph f(x)= (x-50)(x-55)(x-60)^2" }}{PARA 0 "" 0 "" {TEXT 
+-1 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 
+0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 
+0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 
+0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 
+0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 
+0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 259 10 "Problem 2:" }{TEXT -1 
+36 "   Graph f(x)=(x-2)^2(x-5)^2(x+1)^2 " }}{PARA 0 "" 0 "" {TEXT -1 
+1 " " }{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "
+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> \+
+" 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "
+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> \+
+" 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "
+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> \+
+" 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "
+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> \+
+" 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "
+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> \+
+" 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 258 10 "Probl
+em 3:" }{TEXT -1 32 "   Graph f(x)= ( x^2+1 )^(1/100)" }}{PARA 0 "" 0 
+"" {TEXT -1 3 "   " }{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT 257 10 "Problem 4:" }{TEXT -1 25 "  Graph f(x)=(4+4x+x^2)/x" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT -1 1 " " }}{PARA 0 "" 0 "" {TEXT 256 12 "
+Exploration:" }{TEXT -1 75 "  Try to graph f(x)=(4+4x+x^2)/x^2.  It wi
+ll not work nicely.  Focus on the" }}{PARA 0 "" 0 "" {TEXT -1 96 "infl
+ection points and critical points and discuss why there is trouble gra
+phing this function.  " }}{PARA 0 "" 0 "" {TEXT -1 103 "              \+
+        You may prefer to graph f(x)=tan(x) and discuss the difficulti
+es with this graph." }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 0 "" }}}}{MARK "7 0 0" 3 }{VIEWOPTS 1 1 0 1 1 1803 1 1 
+1 1 }{PAGENUMBERS 0 1 2 33 1 1 }

@@ -1,0 +1,175 @@
+{VERSION 5 0 "IBM INTEL NT" "5.0" }
+{USTYLETAB {CSTYLE "Maple Input" -1 0 "Courier" 0 1 255 0 0 1 0 1 0 0 
+1 0 0 0 0 1 }{CSTYLE "2D Math" -1 2 "Times" 0 1 0 0 0 0 0 0 2 0 0 0 0 
+0 0 1 }{CSTYLE "2D Comment" 2 18 "" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 }
+{CSTYLE "" -1 256 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 
+257 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 258 "" 0 1 0 0 
+0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 259 "" 0 1 0 0 0 0 0 1 0 0 0 0 
+0 0 0 1 }{CSTYLE "" -1 260 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }
+{CSTYLE "" -1 261 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 
+262 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 263 "" 0 1 0 0 
+0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 264 "" 0 1 0 0 0 0 0 1 0 0 0 0 
+0 0 0 1 }{CSTYLE "" -1 265 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }
+{CSTYLE "" -1 266 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 
+267 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 268 "" 0 1 0 0 
+0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 269 "" 0 1 0 0 0 0 1 0 0 0 0 0 
+0 0 0 1 }{CSTYLE "" -1 270 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }
+{CSTYLE "" -1 271 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 
+272 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 273 "" 0 1 0 0 
+0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 274 "" 0 1 0 0 0 0 0 1 0 0 0 0 
+0 0 0 1 }{CSTYLE "" -1 275 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }
+{CSTYLE "" -1 278 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 
+279 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }{PSTYLE "Normal" -1 0 1 
+{CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 }0 0 0 -1 -1 -1 0 
+0 0 0 0 0 -1 0 }{PSTYLE "Maple Output" 0 11 1 {CSTYLE "" -1 -1 "" 0 1 
+0 0 0 0 0 0 0 0 0 0 0 0 0 1 }3 3 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE 
+"Maple Plot" 0 13 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 }3 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "" 0 256 1 {CSTYLE "" -1 
+-1 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }0 0 0 -1 -1 -1 0 0 0 0 0 0 -1 
+0 }{PSTYLE "" 0 257 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 
+0 1 }0 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "" 0 259 1 {CSTYLE "" 
+-1 -1 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }0 0 0 -1 -1 -1 0 0 0 0 0 0 
+-1 0 }{PSTYLE "" 0 260 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 1 0 0 0 0 
+0 0 0 1 }0 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }}
+{SECT 0 {EXCHG {PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 259 "" 0 "" 
+{TEXT -1 64 "MAT 155                 Project IV                     Fa
+ll 2002" }}{PARA 0 "" 0 "" {TEXT 274 62 "                           In
+verse Functions                  " }{TEXT -1 9 "         " }}{PARA 0 "
+" 0 "" {TEXT -1 0 "" }{MPLTEXT 1 0 0 "" }}}{PARA 0 "> " 0 "" {MPLTEXT 
+1 0 0 "" }}{EXCHG {PARA 0 "" 0 "" {TEXT -1 0 "" }}}{EXCHG {PARA 0 "" 
+0 "" {TEXT -1 0 "" }{TEXT 264 31 "If you cannot recall a command " }
+{TEXT -1 28 "from a previous lab you may " }{TEXT 265 26 "consult the \+
+command index " }{TEXT -1 106 "which can be opened up as a second wind
+ow.  The name of the file with the command index is 155.00.00.html." }
+}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 1 " \+
+" }{TEXT 256 25 "Do not work on this file." }{TEXT -1 38 "  This is ju
+st the list of problems.  " }{TEXT 257 18 "Open your own file" }{TEXT 
+-1 82 " by selecting \"File\" on the Maple V bar and choosing \"New\".
+  Save the new file as " }{TEXT 258 14 "yourname4.mws " }{TEXT -1 7 "a
+nd as " }{TEXT 259 14 "yourname4b.mws" }{TEXT -1 41 " regularly using \+
+the \"save as\" command.  " }{TEXT 260 81 "Be careful not to save this
+ file with that name or you will overwrite your work! " }{TEXT -1 69 "
+ This window should always have 155.00.04.mws printed on the top.    \+
+" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }
+{TEXT 266 30 "Do not hit return on this file" }{TEXT -1 122 " or the c
+omputer will remember it when working on your file and may overwrite v
+ariables and functions that you've defined." }}{PARA 0 "" 0 "" {TEXT 
+-1 0 "" }}{PARA 0 "" 0 "" {TEXT 261 89 "Sign your name as a comment at
+ the top of your file by backspacing in front of the prompt" }{TEXT 
+-1 103 " and typing it in.  Also write Project IV and the names of any
+ other students who are working with you." }}{PARA 0 "" 0 "" {TEXT -1 
+0 "" }}{PARA 0 "" 0 "" {TEXT 262 28 "At the start of each problem" }
+{TEXT -1 160 " in your file, backspace in front of the prompt and type
+ the Problem Number 1 or Problem Number 2 etc.  Then hit return and on
+ the first line with a prompt type" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 8 "restart;" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 34 "This \+
+will clear all previous work." }}{PARA 0 "" 0 "" {TEXT -1 1 " " }}
+{PARA 0 "" 0 "" {TEXT 267 27 "If you fix or change a line" }{TEXT -1 
+162 " you must go back up to the restart to clear your previous work a
+nd then hit enter on all the lines after to get the computer to redo t
+he computations correctly. " }{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 
+0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT 263 30 "Do all the problems
+ in order. " }{TEXT -1 56 " Ask a student or the teacher if you are ha
+ving trouble." }}}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{EXCHG {PARA 257 "" 
+0 "" {TEXT -1 18 "Problem 1: Review:" }{MPLTEXT 1 0 0 "" }}}{EXCHG 
+{PARA 0 "" 0 "" {TEXT -1 38 "Define f(x)=sin(x)/x using the command" }
+}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 18 "f:= x -> sin(x)/x;" }
+{TEXT -1 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 114 "Notice that this
+ function is defined everywhere except where x=0.  At x=0, we get f(0)
+=0/0 which is not defined.  " }}{PARA 0 "" 0 "" {TEXT -1 33 "Now you c
+an plot f(x)  by typing." }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 22 
+"plot(f(x), x=-10..10);" }{TEXT -1 0 "" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT -1 127 "Notice that the graph crosses the x axis somewhere betwe
+en 2 and 4.  To get a decimal approximation of the crossing point type
+:" }{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 23 "fso
+lve(f(x)=0, x=2..4);" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 158 "Note tha
+t this is Pi.  Recall that sin(Pi)=0 because in calculus we use radian
+s not degrees.  Now find out the next number where the graph crosses t
+he x axis." }{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 135 
+"Notice that near x=0, the function's graph appears  to be perfectly n
+ice.  You might even think that f(x) is defined at zero.  Look at " }
+{MPLTEXT 1 0 0 "" }{TEXT -1 199 " x values near 0 and see where it app
+ears to cross.  Focus the graph very close to x=0.  Try plotting it fr
+om x=-0.1 to 0.1.  Write a comment estimating the number where the gra
+ph appears to cross.  " }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 
+0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 42 "Now plot the graph f
+rom x=-0.01 to 0.01.  " }{TEXT 269 92 "Remember you can cut and paste \+
+your plot command onto a new line and just edit the x values." }{TEXT 
+-1 126 "   Then write a comment telling where it appears to cross.  Wh
+at is the largest y value on the graph and what is the smallest?" }}
+{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 109 "It appea
+rs that as x gets closer and closer to zero, the graph gets closer and
+ closer to 1.  We say that the " }{TEXT 270 37 "limit of f(x) as x app
+roaches 0 is 1 " }{TEXT -1 9 "and write" }{XPPEDIT 18 0 "limit(f(x),x \+
+= 0);" "6#-%&limitG6$-%\"fG6#%\"xG/F)\"\"!" }{TEXT 273 1 "=" }{TEXT 
+-1 1 "1" }{TEXT 275 1 "." }}{PARA 0 "" 0 "" {TEXT -1 2 "  " }}}{EXCHG 
+{PARA 256 "" 0 "" {TEXT -1 50 "Problem 2:  Inverses and the horizontal
+ line test:" }}{PARA 0 "" 0 "" {TEXT -1 115 "Sometimes you don't just \+
+want to solve f(x)=0.  Suppose you want to solve f(x)=2 and f(x)=4 and
+ f(x) =15 and so on." }}{PARA 0 "" 0 "" {TEXT -1 87 "Rather than solvi
+ng the problem repeatedly, it is easier to find an inverse function,  \+
+" }{XPPEDIT 18 0 "f^(-1);" "6#)%\"fG,$\"\"\"!\"\"" }{TEXT -1 206 " = i
+nvf, which will just cancel everything f does, so that you need only e
+valuate invf(2), invf(4) and invf(15) and so on.  For example, if f(x)
+=x+2, then invf(x)=x-2 and if f(x)=x^3 then invf(x)=x^(1/3).  " }}
+{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 69 "To get Ma
+ple to find an inverse for you, you just solve f(y)=x for y " }{TEXT 
+272 53 "(you may copy and paste the commands into your file):" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 13 "f:= x -> x^3;" }{TEXT -1 0 "
+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 16 "solve(f(y)=x,y);" }
+{TEXT -1 0 "" }}}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{EXCHG {PARA 0 "" 0 "
+" {TEXT -1 120 " You will notice that Maple gives 3 answers but 2 are \+
+imaginary.  So the only real solution is y=x^(1/3).  So we define:" }}
+}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 17 "invf:=x->x^(1/3);" }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT -1 145 "Suppose you want to find the inve
+rse of x^2?  Let g(x)=x^2 and solve  g(y)=x for y.  You will get two a
+nswers, so there is no inverse for g(x)!  " }{MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT -1 264 "If you graph a function f(x) you \+
+can tell whether it has an inverse or not.  It has an inverse if for e
+very y value, you can draw a horizontal line through y and find exactl
+y one x value such that f(x)=y.  That is the horizontal line can only \+
+cross the graph once." }}{PARA 0 "" 0 "" {TEXT -1 88 "Use the plot com
+mand to check if f(x)=x^3 and g(x)=x^2 satisfy the horizontal line tes
+t." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 59 "The
+n let h(x)=2^x and graph it to see if it has an inverse." }}{PARA 0 "
+" 0 "" {TEXT -1 1 " " }{MPLTEXT 1 0 0 "" }{TEXT -1 0 "" }}}{EXCHG 
+{PARA 0 "" 0 "" {TEXT -1 517 "Use the solve command to try to find the
+ inverse of h(x).  You will get a strange fraction with the function l
+n(x) in it.  ln(x) is called the natural log function.  It is in fact \+
+the inverse of e^x.  The natural log function is used to find inverses
+ of exponential functions.  Remember that to solve x=(5y)^3 for y you \+
+take the cube root of both sides of the equation.  So if x=2^y, you ta
+ke the natural log of both sides  ln(x)=ln(2^y).  Use Maple to find ln
+(x)=ln(2^y)=yln(2), so y=ln(x)/ln(2) (see P.6 Example 6)." }{MPLTEXT 
+1 0 0 "" }}}{EXCHG {PARA 11 "" 0 "" {TEXT -1 1 " " }}}{EXCHG {PARA 0 "
+" 0 "" {TEXT 268 42 "Problem 3: graphing functions and inverses" }
+{TEXT -1 2 ", " }{MPLTEXT 1 0 1 " " }}}{EXCHG {PARA 0 "" 0 "" {TEXT 
+-1 80 "Let f(x)=x^3 again and invf(x)=x^(1/3).  Graph them together us
+ing the command (" }{TEXT 271 35 "You may wish to copy and paste it).
+" }{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 29 "plot
+(\{x^3, x^(1/3)\}, x=0..1);" }}{PARA 13 "" 1 "" {TEXT -1 0 "" }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT -1 80 "You may notice that the graphs hav
+e an interesting symmetry around the y=x line:" }}{PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 31 "plot(\{x^3,x, x^(1/3)\}, x=0..1);" }}{PARA 13 "" 1 "
+" {TEXT -1 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 107 "Why does this \+
+happen?  Compare with other functions like h(x) and invh(x) from probl
+em 2 using the command:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 43 "
+plot(\{2^x, ln(x)/ln(2)\}, x=-5..5, y=-5..5);" }}{PARA 13 "" 1 "" 
+{TEXT -1 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 161 "Compare exp(x), \+
+which is Maple's special way of taking e^x, and ln(x) which is its inv
+erse.  Use the x= and y= parts of the command to make a nice square pl
+ot.  " }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 1 " " }}{PARA 0 "" 0 "" 
+{TEXT -1 133 "Now define g(x) to be the function which describes a lin
+e of slope 3 through (1,2) and solve for its inverse and graph them to
+gether." }{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 47 "xer
+cises 21 through 25 on page 44 of the text. " }}{PARA 0 "" 0 "" {TEXT 
+-1 1 " " }}{PARA 260 "" 0 "" {TEXT -1 12 "Exploration:" }{MPLTEXT 1 0 
+0 "" }}{PARA 0 "" 0 "" {TEXT 278 2 "A:" }{TEXT -1 397 "  If you graph \+
+f(x)=cos(x) on [-10,10], you will see that it fails the horizontal lin
+e test.  However, it passes the horizontal line test if you graph f(x)
+=cos(x) on [0, Pi].  So we could define an inverse for this restricted
+ definition of cosine.  It is called arccos(x).  Now graph sin(x) on [
+-10,10].  Choose a restricted domain for sin(x) that includes x=0 and \+
+passes the horizontal line test." }{TEXT 279 0 "" }}}{PARA 0 "" 0 "" 
+{TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}}{MARK "36 3 1" 397 }
+{VIEWOPTS 1 1 0 1 1 1803 1 1 1 1 }{PAGENUMBERS 0 1 2 33 1 1 }

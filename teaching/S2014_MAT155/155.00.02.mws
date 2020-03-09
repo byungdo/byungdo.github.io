@@ -1,0 +1,258 @@
+{VERSION 5 0 "IBM INTEL NT" "5.0" }
+{USTYLETAB {CSTYLE "Maple Input" -1 0 "Courier" 0 1 255 0 0 1 0 1 0 0 
+1 0 0 0 0 1 }{CSTYLE "" -1 256 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }
+{CSTYLE "" -1 257 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 
+258 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 259 "" 0 1 0 0 
+0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 260 "" 0 1 0 0 0 0 0 1 0 0 0 0 
+0 0 0 1 }{CSTYLE "" -1 261 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }
+{CSTYLE "" -1 262 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 
+263 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 264 "" 0 1 0 0 
+0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 265 "" 0 1 0 0 0 0 0 1 0 0 0 0 
+0 0 0 1 }{CSTYLE "" -1 266 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }
+{CSTYLE "" -1 267 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 
+268 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 269 "" 0 1 0 0 
+0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 270 "" 0 1 0 0 0 0 0 1 0 0 0 0 
+0 0 0 1 }{CSTYLE "" -1 271 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }
+{CSTYLE "" -1 272 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 
+273 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 274 "" 0 1 0 0 
+0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 275 "" 0 1 0 0 0 0 1 1 0 0 0 0 
+0 0 0 1 }{CSTYLE "" -1 276 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 }
+{CSTYLE "" -1 277 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 
+279 "" 0 1 0 0 0 0 1 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 280 "" 0 1 0 0 
+0 0 1 0 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 281 "" 0 1 0 0 0 0 1 0 0 0 0 0 
+0 0 0 1 }{CSTYLE "" -1 282 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 }
+{CSTYLE "" -1 283 "" 0 1 0 0 0 0 1 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 
+284 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 285 "" 0 1 0 0 
+0 0 1 0 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 286 "" 0 1 0 0 0 0 1 0 0 0 0 0 
+0 0 0 1 }{PSTYLE "Normal" -1 0 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 0 
+0 0 0 0 0 0 0 1 }0 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "Maple Outpu
+t" 0 11 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 }3 3 0 
+-1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "Maple Plot" 0 13 1 {CSTYLE "" -1 
+-1 "" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 }3 0 0 -1 -1 -1 0 0 0 0 0 0 -1 
+0 }{PSTYLE "" 0 256 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 
+0 1 }0 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "" 0 257 1 {CSTYLE "" 
+-1 -1 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }0 0 0 -1 -1 -1 0 0 0 0 0 0 
+-1 0 }{PSTYLE "" 0 258 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 1 0 0 0 0 0 
+0 0 0 1 }0 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "" 0 259 1 {CSTYLE "
+" -1 -1 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }0 0 0 -1 -1 -1 0 0 0 0 0 
+0 -1 0 }{PSTYLE "" 0 260 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 1 0 0 0 
+0 0 0 0 1 }0 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "" 0 261 1 
+{CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }0 0 0 -1 -1 -1 0 
+0 0 0 0 0 -1 0 }{PSTYLE "" 0 262 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 
+1 0 0 0 0 0 0 0 1 }0 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "" 0 263 
+1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 }0 0 0 -1 -1 -1 
+0 0 0 0 0 0 -1 0 }{PSTYLE "" 0 264 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 
+1 0 0 0 0 0 0 0 0 1 }0 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "" 0 
+265 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 }0 0 0 -1 
+-1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "" 0 266 1 {CSTYLE "" -1 -1 "" 0 1 0 
+0 0 0 0 1 0 0 0 0 0 0 0 1 }0 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "
+" 0 267 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 }0 0 0 
+-1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "" 0 268 1 {CSTYLE "" -1 -1 "" 0 1 
+0 0 0 0 0 1 0 0 0 0 0 0 0 1 }0 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE 
+"" 0 269 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }0 0 0 
+-1 -1 -1 0 0 0 0 0 0 -1 0 }}
+{SECT 0 {EXCHG {PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 256 "" 0 "" 
+{TEXT -1 65 "MAT 155                 Project II                      F
+all 2002" }}{PARA 257 "" 0 "" {TEXT -1 43 "                     Functi
+ons and Graphing" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }{MPLTEXT 1 0 0 "" }
+}}{EXCHG {PARA 0 "" 0 "" {TEXT 267 32 "If you missed the first project
+," }{TEXT -1 245 " you must complete it in order to ba able to do this
+ one.  Ask your teacher if you should do it now or if you should sit n
+ext to someone who was here last week.  In the future, if you miss a l
+ab, you must make up the work before coming to class." }}{PARA 0 "" 0 
+"" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT 268 74 "Before starting this \+
+project you should have reviewed P1-P3 for homework. " }{TEXT -1 174 "
+ If you have not read these sections, please refer to them as necessar
+y.  In future projects it will be assumed that you have already done t
+he reading before coming to class." }}{PARA 0 "" 0 "" {TEXT -1 1 " " }
+{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 1 " " }{MPLTEXT 
+1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 256 17 "Saving this file:" }}
+{PARA 0 "" 0 "" {TEXT -1 54 "Before you begin working you should save \+
+this file as " }{TEXT 260 14 "yourname2.mws " }{TEXT -1 76 "by selecti
+ng \"File\" on the far left of the top bar of Maple V and choosing \"
+" }{TEXT 257 7 "Save As" }{TEXT -1 171 "\".  A window will appear and \+
+you will fill in the file name.   You should regularly save this file \+
+using the \"Save As\".   You should also save the file with a second n
+ame " }{TEXT 261 15 "yourname2b.mws " }{TEXT -1 20 "using the \"Save A
+s\" " }{TEXT 262 26 "so that you have a backup " }{TEXT -1 281 "in cas
+e your file is damaged.  The computer will tell you that the file alre
+ady exists and you will click on \"Yes\" that you agree to overwrite i
+t.  If you just use the \"Save\" instead of the \"Save As\" then the f
+ile will be saved with whichever name is on the top bar of this window
+." }{MPLTEXT 1 0 0 "" }}}{PARA 0 "" 0 "" {TEXT -1 1 " " }}{EXCHG 
+{PARA 0 "" 0 "" {TEXT -1 1 " " }{MPLTEXT 1 0 0 "" }{TEXT 259 4 "Put " 
+}{TEXT -1 9 "your name" }{TEXT 258 25 " on the top of this file " }
+{TEXT -1 111 "by clicking your mouse right below the title and then ty
+ping your name.  Then return here using the down arrow." }}{PARA 0 "" 
+0 "" {TEXT -1 0 "" }}}{EXCHG {PARA 259 "" 0 "" {TEXT -1 31 "Problem 1:
+  Defining functions:" }{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT -1 89 "A function is a mapping from a domain to a range, it assi
+gns one value for every input x." }}{PARA 0 "" 0 "" {TEXT -1 149 "For \+
+example the square root function maps x to the square root of x.  We c
+an also define a function which maps x to (x+3)/5.  To do so you must \+
+type:" }{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 17 
+"f:= x -> (x+3)/5;" }}{PARA 11 "" 1 "" {TEXT -1 0 "" }}}{EXCHG {PARA 
+0 "" 0 "" {TEXT -1 137 "Hit enter on the line so that Maple learns the
+ definition.  Now you can find the value of f at a few different value
+s of x.  For example:" }{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 5 "f(2);" }{TEXT -1 0 "" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 5 "f(7);" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 5 "f(1
+);" }{TEXT -1 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 66 "To get a dec
+imal expansion from a fraction, use the evalf command:" }{MPLTEXT 1 0 
+0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 12 "evalf(f(1));" }
+{TEXT -1 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 39 "You could also fi
+nd f at Pi=3.14159...." }{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 6 "f(Pi);" }{TEXT -1 0 "" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 13 "evalf(f(Pi));" }{TEXT -1 0 "" }}}{EXCHG {PARA 0 "> " 
+0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }
+}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 106 "Now define a function g(x)=(x+3
+0)(x-20).  Don't forget to use a star (above the 8) for the multiplica
+tion." }{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "
+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 
+0 "" {TEXT -1 69 "Evaluate the function at 20 and at -30.  Try some ot
+her x's as well. " }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 1 " " }}{PARA 
+265 "" 0 "" {TEXT -1 193 "It is time to save your work.  Got to the to
+p using the arrow key if you need to review how to save the file.  Rem
+ember you must save it twice, once as yourname2.mws and once as yourna
+me2b.mws." }}{PARA 267 "" 0 "" {TEXT -1 1 " " }{MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 260 "" 0 "" {TEXT -1 31 "Problem 2:  Graphing Functions:
+" }}{PARA 0 "" 0 "" {TEXT -1 95 "To graph a function on a computer you
+ must tell it what x values you are interested in viewing." }}{PARA 0 
+"" 0 "" {TEXT -1 64 "Here is the command for graphing a function f fro
+m x= -10 to 10." }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 22 "plot(f(x
+), x=-10..10);" }}{PARA 13 "" 1 "" {TEXT -1 0 "" }}}{EXCHG {PARA 0 "" 
+0 "" {TEXT -1 61 "Notice that the y axis is scaled differently than th
+e x axis." }{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 51 "N
+ow try to graph the function g from x=-10 to 10.  " }{MPLTEXT 1 0 0 "
+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> \+
+" 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 301 "You'l
+l notice that g is never 0 in this graph.  But in Problem 1 you saw th
+at it was 0 at 20 and at -30.  So perhaps a graph that includes x=20 a
+nd x=-30 would be more interesting.  Plot g again using a different do
+main of x values so that you see where it crosses the x axis.  It shou
+ld cross twice. " }{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT -1 62 "Now graph sin(x) from -10 to 10.  \+
+Where does sin(x) cross 0?  " }{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> \+
+" 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "
+" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 172 "Find the value of sin(x) at \+
+x=Pi.  Remember that in calculus we use radians not degrees and that P
+i  radians is 180 degrees.  Review radians for homework (A.3 in the te
+xt) " }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 84 "Now find an
+ x such that sin(x) =1 by locating one of the high points on the graph
+.  " }{TEXT 286 8 "Use the " }{TEXT 283 14 "trace feature " }{TEXT 
+285 20 "to do this by taking" }{TEXT -1 1 " " }{TEXT 284 328 "the mous
+e and clicking on the high point with the arrow tip.  A pair of number
+s will appear on the upper left corner of your screen.  The first is t
+he x value of the point you clicked on and the second is the y value. \+
+ The second should be the number one.  Write down the first.  Then ver
+ify that the sine of that number is one." }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT -1 1 " " }}{PARA 264 "" 0 "" {TEXT -1 63 
+"It is time to save your work.  Remember you must save it twice." }
+{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 268 "" 0 "" {TEXT -1 0 "" }}{PARA 
+262 "" 0 "" {TEXT -1 26 "Problem 3:  Graphing Lines" }{MPLTEXT 1 0 0 "
+" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 93 "Define a function f(x)=5x+7 a
+nd graph it.  Don't forget to use the multiplication symbol.    " }
+{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 23 "plot(5*
+x+7, x=-10..10);" }}{PARA 13 "" 1 "" {TEXT -1 0 "" }}}{EXCHG {PARA 0 "
+> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 
+"" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 103 "Recall that the slope of th
+e line can be found by identifying two points on the line (a,b) and (c
+,d).  " }{TEXT 280 8 "Use the " }{TEXT 279 14 "trace feature " }{TEXT 
+282 20 "to do this by taking" }{TEXT -1 1 " " }{TEXT 281 201 "the mous
+e and clicking on the line with the arrow tip.  A pair of numbers will
+ appear on the upper left corner of your screen.  Write them down.  Th
+en click on another point in the line and copy down. " }{TEXT -1 190 "
+ The first pair can be (a,b) and the second can be (c,d).  Compute the
+ slope of the line by computing the change in y coordinates over chang
+e in x coordinates=(d-b)/(c-a).  You should get 5." }}}{EXCHG {PARA 0 
+"> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 116 "To graph a line with a gi
+ven slope, m, and a point (a,b), you can find a line through that poin
+t using the formula  " }{TEXT 273 17 "y - b = m (x -a) " }{TEXT -1 
+185 "However, this formula is an equation not a function.  A function \+
+should always have y by itself on one side so that when you input an x
+ value you get a y value.  So you rewrite this as " }{TEXT 274 15 "y =
+ m(x-a) + b " }{TEXT -1 144 "and fill in the numbers for the point (a,
+b) and the slope m.  For example, the function whose graph is a line t
+hrough (1,3) with a slope 2 is:  " }{MPLTEXT 1 0 1 " " }}}{EXCHG 
+{PARA 266 "> " 0 "" {MPLTEXT 1 0 20 "f:= x -> 2*(x-1) +3;" }}}{EXCHG 
+{PARA 0 "" 0 "" {TEXT -1 42 "Graph this function for x in [-10,10].   \+
+ " }{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}
+}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT -1 80 "Define a function whose graph is a line which goes throug
+h (5,30) with slope -3." }{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT -1 37 "Graph the function for x in [-10,1
+0]." }{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" 
+}}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "
+" {TEXT -1 121 "Can you guess where the graph crosses the x axis, and \+
+graph it again below changing your x domain to include that point. " }
+{TEXT 275 64 " You do not have to copy over the entire plot command by
+ hand.  " }{TEXT 276 291 "Hold the left mouse button down as you trace
+ the part of the command you want to copy so it should be highlighted.
+  Then go to the \"Edit\" on the top bar and select \"copy\".  Then cl
+ick below on [>, go back to \"Edit\" and select \"Paste\" and it will \+
+appear.  Then you can just change the x part." }}}{EXCHG {PARA 0 "> " 
+0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }
+}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "
+" {TEXT -1 304 "If the slope is positive then the function is increasi
+ng (and the graph goes upwards from left to right) and if the slope is
+ negative then the function is decreasing (and the graph does downward
+ from left to right).  Define a function whose graph is just a horizon
+tal line.  If necessary try a few times." }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 1 " " }}{PARA 
+263 "" 0 "" {TEXT -1 63 "It is time to save your work.  Remember you m
+ust save it twice." }{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 269 "" 0 "" 
+{TEXT -1 0 "" }}{PARA 261 "" 0 "" {TEXT -1 35 "Problem 4:  Odd and Eve
+n Functions:" }{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 
+51 "Define f(x)=cos(x) and graph it with x in [-10,10]." }{MPLTEXT 1 
+0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 
+0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 48 "Define g(x)=x^2 and grap
+h it with x in [-10,10]." }{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 
+"" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT -1 121 "Notice that both of these graphs can be reflected symmet
+rically across the y axis (like a mirror).  Thus they are called " }
+{TEXT 269 14 "even functions" }{TEXT -1 108 ".  That is f(x)=f(-x).  G
+raph f(-x) and g(-x) to see that they are the same as the graphs of f(
+x) and f(-x)." }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 
+0 "" 0 "" {TEXT -1 31 "Now graph sin(x) and sin(-x).  " }{TEXT 277 69 
+"Again use the copy and the paste to avoid typing the commands twice. \+
+" }{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 86 "Is sin(x) a
+n even function?   No, these graphs are not the same.    In fact sin(-
+x) = " }{TEXT 270 2 "- " }{TEXT -1 26 "sin(x) !  So sin(x) is an " }
+{TEXT 271 13 "odd function." }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "
+" 0 "" {TEXT -1 1 " " }}{PARA 258 "" 0 "" {TEXT -1 63 "It is time to s
+ave your work.  Remember you must save it twice." }{MPLTEXT 1 0 0 "" }
+}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 
+"" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 0 "" }{TEXT 
+263 13 "Exploration: " }{TEXT -1 531 "Every project ends with explorat
+ion.  Before starting the exploration you should make sure that you ha
+ve completed all of the problems.  Once you have completed them you ca
+n make up similar problems or do recommended exploration problems.  If
+ you miss a lab, you must catch up on the previous labs problems to le
+arn all the commands and ideas that you missed.  The exploration need \+
+not have been completed to continue with the next project. Your profes
+sor may, however, require you to complete the exploration for grading \+
+purposes." }}}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{EXCHG {PARA 0 "" 0 "" 
+{TEXT 265 33 "Recommended exploration problems:" }}{PARA 0 "" 0 "" 
+{TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT 266 10 "A) Shifts:" }{TEXT -1 
+376 "  Let f(x)=x^3.  Then graph f(x), f(x+2), and f(x)+2 and compare \+
+them.  Now try to shift the graph of the function other ways.  For exa
+mple shift it to the right by 3, shift it to the left by 4, shift it u
+p by 5, and shift it down by 6.  Now change f to another function and \+
+hit enter on all your lines to see how the graphs change.   Just hit e
+nter below to get more prompts " }{TEXT 272 2 "[>" }{TEXT -1 18 ".    \+
+             " }}}{PARA 0 "" 0 "" {TEXT 264 0 "" }}}{MARK "98 0" 0 }
+{VIEWOPTS 1 1 0 1 1 1803 1 1 1 1 }{PAGENUMBERS 0 1 2 33 1 1 }

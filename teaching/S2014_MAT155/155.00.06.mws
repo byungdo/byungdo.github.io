@@ -1,0 +1,175 @@
+{VERSION 5 0 "IBM INTEL NT" "5.0" }
+{USTYLETAB {CSTYLE "Maple Input" -1 0 "Courier" 0 1 255 0 0 1 0 1 0 0 
+1 0 0 0 0 1 }{CSTYLE "" -1 256 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }
+{CSTYLE "" -1 257 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 
+258 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 259 "" 0 1 0 0 
+0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 260 "" 0 1 0 0 0 0 0 1 0 0 0 0 
+0 0 0 1 }{CSTYLE "" -1 261 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }
+{CSTYLE "" -1 262 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 
+263 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 264 "" 0 1 0 0 
+0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 265 "" 0 1 0 0 0 0 0 1 0 0 0 0 
+0 0 0 1 }{CSTYLE "" -1 266 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }
+{CSTYLE "" -1 267 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 
+268 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 269 "" 0 1 0 0 
+0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 270 "" 0 1 0 0 0 0 0 1 0 0 0 0 
+0 0 0 1 }{CSTYLE "" -1 271 "" 0 1 0 0 0 0 1 1 0 0 0 0 0 0 0 1 }
+{CSTYLE "" -1 272 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 
+273 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 274 "" 0 1 0 0 
+0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 275 "" 0 1 0 0 0 0 0 1 0 0 0 0 
+0 0 0 1 }{CSTYLE "" -1 276 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }
+{CSTYLE "" -1 277 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 
+278 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 279 "" 0 1 0 0 
+0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 280 "" 0 1 0 0 0 0 0 1 0 0 0 0 
+0 0 0 1 }{CSTYLE "" -1 281 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }
+{CSTYLE "" -1 282 "" 0 1 0 0 0 0 1 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 
+283 "" 0 1 0 0 0 0 1 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 284 "" 0 1 0 0 
+0 0 1 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 285 "" 0 1 0 0 0 0 1 0 0 0 0 0 
+0 0 0 1 }{CSTYLE "" -1 286 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }
+{CSTYLE "" -1 287 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 
+288 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 289 "" 0 1 0 0 
+0 0 1 1 0 0 0 0 0 0 0 1 }{PSTYLE "Normal" -1 0 1 {CSTYLE "" -1 -1 "" 
+0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 }0 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }
+{PSTYLE "" 0 256 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 
+1 }0 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "" 0 257 1 {CSTYLE "" -1 
+-1 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }0 0 0 -1 -1 -1 0 0 0 0 0 0 -1 
+0 }{PSTYLE "" 0 258 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 
+0 1 }0 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "" 0 259 1 {CSTYLE "" 
+-1 -1 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }0 0 0 -1 -1 -1 0 0 0 0 0 0 
+-1 0 }}
+{SECT 0 {EXCHG {PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 258 "" 0 "" 
+{TEXT -1 64 "MAT 155                 Project VI                     Fa
+ll 2002" }}{PARA 259 "" 0 "" {TEXT -1 70 "                       Findi
+ng Tangent Lines                          " }}{PARA 0 "" 0 "" {TEXT 
+-1 0 "" }{MPLTEXT 1 0 0 "" }}}{PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }
+{TEXT -1 0 "" }}{EXCHG {PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "
+" {TEXT 258 25 "Do not work on this file." }{TEXT -1 108 "  This is ju
+st the list of problems.  Open your own file and save it as yourname6.
+mws and as yourname6b.mws." }{TEXT 259 1 " " }{TEXT -1 275 " Sign your
+ name as a comment at the top of your file by backspacing in front of \+
+the prompt and typing.  Also write Project VI and the names of any oth
+er students you are working with.  Don't forget to number your problem
+s and to type restart at the beginning of each problem." }}}{EXCHG 
+{PARA 256 "" 0 "" {TEXT -1 1 " " }}{PARA 0 "" 0 "" {TEXT 256 89 "If yo
+u cannot complete a problem, go on to the next one and return to the p
+roblem later. " }{TEXT -1 9 " You can " }{TEXT 257 16 "get a new promp
+t" }{TEXT -1 236 " by selecting the prompt button right below the word
+ \"spreadsheet\".  It has the symbol \"[>\" on it.  You must hit enter
+ on every line of the problem in order, including the restart line, to
+ review what you've done for the Maple program. " }{MPLTEXT 1 0 0 "" }
+}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 1 " " }}{PARA 0 "" 0 "" {TEXT 260 
+31 "If you cannot recall a command " }{TEXT -1 160 "from a previous la
+b you may consult the command index which can be opened up as a second
+ window.  The name of the file with the command index is 155.00.00.htm
+l." }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{PARA 0 "" 0 "" {TEXT -1 
+0 "" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{EXCHG {PARA 0 "" 0 "" {TEXT 
+261 10 "Problem 1:" }{TEXT -1 2 "  " }{TEXT 275 6 "Loops:" }{TEXT -1 
+153 "  Before beginning to study tangent lines we will learn one of th
+e most fundamental techniques used in computer programming.  This tech
+nique is called a " }{TEXT 262 4 "loop" }{TEXT -1 49 ". In later probl
+ems we will use a loop program to" }}{PARA 0 "" 0 "" {TEXT -1 158 "gra
+ph many secant lines to a curve without having to repeatedly type the \+
+plot command.  To make life a little easier we won't do any calculus i
+n this problem." }}}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{EXCHG {PARA 0 "" 
+0 "" {TEXT -1 83 "Suppose we want the computer to write a list 1^2, 2^
+2, 3^2...10^2.  We tell it that" }{TEXT 269 7 " for j " }{TEXT -1 8 "r
+unning " }{TEXT 264 13 "from 1 to 10 " }{TEXT -1 9 "it should" }{TEXT 
+270 4 " do " }{TEXT -1 11 "the command" }{TEXT 265 4 " j^2" }{TEXT -1 
+44 ".  The maple program understands words like " }{TEXT 263 4 "for," 
+}{TEXT -1 1 " " }{TEXT 266 8 "from, to" }{TEXT -1 5 " and " }{TEXT 
+267 2 "do" }{TEXT -1 131 ".  Sometimes there is a long list of command
+s for the computer to complete so we end the list of things it should \+
+do with the word " }{TEXT 268 3 "od " }{TEXT -1 11 "as follows:" }}
+{PARA 0 "" 0 "" {TEXT 272 32 ">  for j from 1 to 10 do j^2 od;" }}
+{PARA 0 "" 0 "" {TEXT -1 92 "This is a one line program called a loop \+
+because it repeats the same command over and over. " }{TEXT 273 1 " " 
+}{TEXT 271 109 "Before hitting enter on a loop command like the one be
+low, always save your work.  Your computer might crash." }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 29 "for j from 1 to 10 do j^2 od;" }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT -1 197 "Copy this loop program using copy
+ and paste and try it out on your file.  Then  write a program which f
+inds j^2 for j running from 1 to 25.  Then write a program which finds
+ sin(Pi*j) for j=1 to 5." }}{PARA 0 "" 0 "" {TEXT -1 2 "  " }}}{EXCHG 
+{PARA 0 "" 0 "" {TEXT -1 1 " " }}{PARA 0 "" 0 "" {TEXT 274 34 "Problem
+ 2: Plotting Secant Lines: " }{TEXT -1 22 " Define f(x)=x^3 using" }}
+{PARA 0 "" 0 "" {TEXT -1 17 "[>  f:= x -> x^3." }}{PARA 0 "" 0 "" 
+{TEXT -1 288 "Now we want to find the secant line which meets the grap
+h of f(x) above x=2 and x=3.  To do this we need to use the point slop
+e formula:  y= m( x- a) + b where m is the slope and (a,b) is a point \+
+on the line.  Since (2, f(2)) is on the line a=2 and b=f(2) will do fi
+ne.  Use the commands " }}{PARA 0 "" 0 "" {TEXT -1 17 "[>      a:=2;  \+
+  " }}{PARA 0 "" 0 "" {TEXT -1 18 "[>      b:=f(a);  " }}{PARA 0 "" 0 
+"" {TEXT -1 145 "to set these values on the computer.  To find the slo
+pe, m, we use the fact that the secant line is passing through (2, f(2
+)) and (3, f(3)).  So " }}{PARA 0 "" 0 "" {TEXT -1 30 "[>      m:= (f(
+3)-f(2))/(3-2);" }}{PARA 0 "" 0 "" {TEXT -1 58 "Now you can plot the s
+ecant line with f using the command:" }}{PARA 0 "" 0 "" {TEXT -1 43 "[
+>     plot( \{f(x), m*(x-a)+f(a)\}, x=0..3);" }}{PARA 0 "" 0 "" {TEXT 
+-1 80 "Verify that the secant line does in fact cross the graph of f a
+bove x=2 and x=3." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" 
+{TEXT -1 82 "Now find the secant line which meets the graph of  f(x)=x
+^3 above  x=2 and x=1.9 ." }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 1 " " }}
+{PARA 257 "" 0 "" {TEXT -1 61 "Problem 3:  Using Loops to Find and Und
+erstand Tangent Lines:" }{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT 276 3 "a) " }{TEXT -1 557 " To find the tangent line to f(x)=x^3
+ through the point (2, f(2)), we need to look at many secant lines eac
+h crossing the graph of f(x) a a point above 2 and a point near 2.  Th
+ese secant lines will look more and more like the tangent line at 2 wh
+en the second point gets very close to 2.  For example, we could find \+
+the secant lines which cross f(x) above 2 and above (2+1/j)  where j i
+s getting larger and larger.   This would require a lot of work on our
+ part to plug in different values of j, compute the slope and then plo
+t the curve, so we use a loop." }}{PARA 0 "" 0 "" {TEXT -1 1 " " }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT -1 104 "To compute secant lines between t
+he point 2 and points closer and closer to 2, we tell the computer tha
+t" }}{PARA 0 "" 0 "" {TEXT -1 127 "for  j= 1 to 10 it should do the co
+mputation m:=(f(2+1/j)-f(2))/(2+1/j-2) to find the slope and then to p
+lot the secant line.  " }{TEXT 285 15 "Save your work " }{TEXT 284 88 
+"and then type the following program without hitting return until afte
+r the od is typed. " }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 89 "for \+
+j from 1 to 10 do m:= (f(2+1/j)-f(2))/(1/j); plot(\{f(x), m*(x-2)+f(2)
+\}, x=1..3); od; " }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 1 " " }}{PARA 0 
+"" 0 "" {TEXT -1 144 "You should get a lot of pictures and definitions
+ of slopes, m, above each picture.  If you don't, it is probably becau
+se you forgot to define f." }}{PARA 0 "" 0 "" {TEXT -1 1 " " }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT -1 270 "Now scroll back up to see all the
+ graphs you've made.  You will see that these secant lines appear to r
+epeat.  In fact they don't quite repeat but get very close to a line c
+alled a tangent line.  The last slope m is a good approximation of the
+ slope of the tangent line." }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 1 " " 
+}{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 277 3 "b) " }{TEXT 
+-1 281 " Now define a new function f(x) = sin(x) and use a loop like t
+he one above to estimate the tangent line to sin(x) which passes throu
+gh (0, sin(0)).  Remember to look at secant lines which cross the grap
+h of f above x=0 and above x=0+1/j and plot the curve over [-2,2] not \+
+[1,3].   " }{TEXT 283 73 "Be very careful to save your work before hit
+ting enter on a loop command." }{TEXT -1 95 "  Then write a comment wh
+ich gives the value of the slope of the tangent line and explains why.
+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 
+0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT 278 13 "Exploration: " }}
+{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT 280 42 "A: Tange
+nt Lines to Exponential Functions:" }}{PARA 0 "" 0 "" {TEXT -1 319 "Us
+ing the same loop that worked for f(x)=sin(x), find the slopes for 2^x
+, 3^x and e^x at x=0.  Note that in maple the command exp(x) is the co
+rrect way to define e^x because maple does not understand the letter e
+.  Write down your conclusions about the slopes and compare with ln(2)
+ and ln(3) using the evalf command.  " }{TEXT 282 73 "Be very careful \+
+to save your work before hitting enter on a loop command." }}{PARA 0 "
+" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT 281 14 "B: More Loops:" }
+}{PARA 0 "" 0 "" {TEXT -1 211 "Use a loop to estimate the limit as x a
+pproaches 0 of g(x) and then test if your loop works by substituting v
+arious functions for g(x) and comparing your estimates with the ones f
+ound using maple's limit command" }}{PARA 0 "" 0 "" {TEXT -1 22 "[> li
+mit( g(x), x=0 );" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" 
+{TEXT 286 38 "C:  When the technique doesn't work:  " }{TEXT -1 157 "T
+his method for finding tangent lines by taking secant lines through (a
+, f(a)) and (a+1/j, f(a+1/j)) does not work if the tangent line doesn'
+t exist at a .  " }{TEXT 288 82 "If the tangent line to f(x) at a does
+ not exist then two things might happen:  1) " }{TEXT -1 136 " The var
+ious plots of the secant lines will not look like each other even if y
+ou take j very large  ( try a=0, f(x)=sin(Pi/4x) )   or   " }{TEXT 
+287 2 "2)" }{TEXT -1 113 "  the secant lines will get closer and close
+r to a line but it won't be a tangent line  (try a=0 f(x)=abs(x) ).  \+
+" }{TEXT 289 73 "Be very careful to save your work before hitting ente
+r on a loop command." }}{PARA 0 "" 0 "" {TEXT 279 2 "  " }{TEXT -1 1 "
+ " }{MPLTEXT 1 0 0 "" }}}}{MARK "23" 0 }{VIEWOPTS 1 1 0 1 1 1803 1 1 
+1 1 }{PAGENUMBERS 0 1 2 33 1 1 }

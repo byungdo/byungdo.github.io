@@ -1,0 +1,110 @@
+{VERSION 6 0 "IBM INTEL NT" "6.0" }
+{USTYLETAB {CSTYLE "Maple Input" -1 0 "Courier" 1 12 255 0 0 1 2 1 2 
+2 1 2 0 0 0 1 }{CSTYLE "Text" -1 207 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 
+0 0 0 1 }{CSTYLE "" -1 211 "Times" 1 18 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "" 207 256 "" 1 24 0 0 0 0 0 0 0 0 0 0 0 0 0 0 }{PSTYLE "Norma
+l" -1 0 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }
+1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Maple Output" -1 11 1 {CSTYLE "
+" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 0 
+2 2 -1 1 }{PSTYLE "No Name210" -1 200 1 {CSTYLE "" -1 -1 "Times" 1 14 
+0 0 0 1 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" 
+-1 210 1 {CSTYLE "" -1 -1 "Times" 1 18 0 0 0 1 2 1 2 2 2 2 1 0 0 1 }3 
+1 0 0 0 0 2 0 2 0 2 2 -1 1 }}
+{SECT 0 {EXCHG {PARA 210 "" 0 "" {TEXT 256 10 "Final Exam" }}{PARA 
+200 "" 0 "" {TEXT 211 73 "Spring 2014, MAT155 Section 04LB[51293]\nMay
+ 22nd, 2014. 11:00AM--12:40PM." }{TEXT 207 1 "\n" }}{PARA 200 "" 0 "" 
+{TEXT 207 50 "Your Name:                                        " }}
+{PARA 200 "" 0 "" {TEXT 207 0 "" }}{PARA 0 "" 0 "" {TEXT -1 490 "Instr
+uctions:  You can use only MAPLE program and a web browser(only for th
+e purpose of submitting your exam solution to the instructor). You may
+ not use any other programs other than these two. You can look up your
+ MAPLE source files, but otherwise this exam is closed-book, closed-no
+te, and you may not use any electronic device in this exam except your
+ PC. You are not allowed to talk to other students. Type all details e
+xplicitly. All solutions should be obtained by using MAPLE codes." }}
+{PARA 0 "" 0 "" {TEXT -1 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 288 "
+Problem 1. (10 points) This problem is about using loops in MAPLE. Def
+ine a function f(x)=(sin(x))/x and evaluate it(use evalf command) when
+ x=10^k where k is an integer among -1,...,-10. Compare this result wi
+th the result when the limit of f(x) as x goes to 0 is calculated usin
+g MAPLE." }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT -1 263 "Problem 2. (10 points) Using loop, plot five graphs of s
+ecant line to f(x)=exp(x) passing through (0,1) and (1/10^j,exp(1/10^j
+)), where j=1,2,3,4,5. In the same plot, include the graph of exp(x) a
+s well. On the top of the graph, show the slope of the secant line." }
+}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 
+"" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 131 "Problem 3.
+ (20 points, 5 points each) Suppose a particle is moving in a stright \+
+line satisfying a position function p(t)=-t^2-9t+3." }}{PARA 0 "" 0 "
+" {TEXT -1 39 "(1) Find the velocity and acceleration." }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 11 "" 1 "" {TEXT -1 0 "" }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT -1 95 "(2) Draw the position-function gra
+ph, velocity-function graph, and acceleration-function graph." }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }{TEXT -1 0 "" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 34 "(3) When does
+ the particle stops? " }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }
+}{PARA 11 "" 1 "" {TEXT -1 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 64 
+"(4) When does the particle comes back to its original position? " }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT -1 97 "Problem 4.  (10 points) Write a brief description about w
+hat the idea of the Newton's method is. " }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT -1 129 "Problem 5.  (10 points) For f(x)=
+sin(x) starting at x=4, by using Newton's method to find the value of \+
+Pi up to 8 decimal places." }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+0 "" }{TEXT -1 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 78 "Problem 6. \+
+(15 points, 5 points each) Consider the function f(x)=x^3-50*x + 1 " }
+}{PARA 0 "" 0 "" {TEXT -1 353 "(1) Plot the graph of f(x) and its deri
+vative in the same graph. Make sure that the graph shows all intersect
+ions with x-axis. \n(2) Using MAPLE, find all critical numbers of f(x)
+. Find all relative extrema.\n(3) Find the second derivative of f(x). \+
+Using MAPLE, find all inflection points. (Note that an inflection poin
+t is a pair of x- and y-coordinate.)" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT -1 299 "Problem 7. (25 points. 5 points each) Let g(x)=1/x^2. Co
+nsider the interval [1,2]. Run the student package using \"with(studen
+t):\"\n(1) Show graphically the left hand sum, right hand sum for 10 s
+ubintervals. Give it a name.\n(2) Using \"with(plots):\", display the \+
+above three pictures in a single graph." }}{PARA 0 "" 0 "" {TEXT -1 
+107 "(3) Give a numerical value(in decimal expression) for left hand s
+um and right hand sum for 10 subintervals." }}{PARA 0 "" 0 "" {TEXT 
+-1 294 "(4) Using MAPLE, calculate the integral of g(x) from 1 to 2. E
+xplain, for the result from (3), which one is overestimating and under
+estimating.\n(5) Using a loop, write commands that calculate the left-
+hand sums and right-hand sums with 5, 10, 20, 40, 80, 160, 320, 640, 1
+280, 2560 subintervals." }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "
+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> \+
+" 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "
+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> \+
+" 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "
+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> \+
+" 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "
+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> \+
+" 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "
+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> \+
+" 0 "" {MPLTEXT 1 0 0 "" }}}}{MARK "0 1 1" 1 }{VIEWOPTS 1 1 0 1 1 
+1803 1 1 1 1 }{PAGENUMBERS 0 1 2 33 1 1 }

@@ -1,0 +1,110 @@
+{VERSION 6 0 "IBM INTEL NT" "6.0" }
+{USTYLETAB {CSTYLE "Maple Input" -1 0 "Courier" 1 12 255 0 0 1 2 1 2 
+2 1 2 0 0 0 1 }{CSTYLE "" -1 211 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 
+0 1 }{PSTYLE "Normal" -1 0 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 
+2 2 2 2 2 1 1 1 1 }1 1 0 0 0 0 2 0 2 0 2 2 0 1 }{PSTYLE "No Name" -1 
+208 1 {CSTYLE "" -1 -1 "Courier" 1 24 255 0 0 1 2 1 2 2 1 2 1 1 1 1 }
+1 1 0 0 0 0 2 0 2 0 2 2 0 1 }{PSTYLE "No Name" -1 209 1 {CSTYLE "" -1 
+-1 "Courier" 1 24 255 0 0 1 2 1 2 2 1 2 1 1 1 1 }1 1 0 0 0 0 2 0 2 0 
+2 2 0 1 }{PSTYLE "No Name" -1 210 1 {CSTYLE "" -1 -1 "Courier" 1 24 
+255 0 0 1 2 1 2 2 1 2 1 1 1 1 }1 1 0 0 0 0 2 0 2 0 2 2 0 1 }{PSTYLE "N
+o Name" -1 211 1 {CSTYLE "" -1 -1 "Courier" 1 24 255 0 0 1 2 1 2 2 1 
+2 1 1 1 1 }1 1 0 0 0 0 2 0 2 0 2 2 0 1 }{PSTYLE "No Name" -1 212 1 
+{CSTYLE "" -1 -1 "Courier" 1 24 255 0 0 1 2 1 2 2 1 2 1 1 1 1 }1 1 0 
+0 0 0 2 0 2 0 2 2 0 1 }{PSTYLE "No Name" -1 213 1 {CSTYLE "" -1 -1 "Co
+urier" 1 24 255 0 0 1 2 1 2 2 1 2 1 1 1 1 }1 1 0 0 0 0 2 0 2 0 2 2 0 
+1 }{PSTYLE "No Name" -1 214 1 {CSTYLE "" -1 -1 "Courier" 1 24 255 0 0 
+1 2 1 2 2 1 2 1 1 1 1 }1 1 0 0 0 0 2 0 2 0 2 2 0 1 }{PSTYLE "No Name" 
+-1 215 1 {CSTYLE "" -1 -1 "Courier" 1 24 255 0 0 1 2 1 2 2 1 2 1 1 1 
+1 }1 1 0 0 0 0 2 0 2 0 2 2 0 1 }{PSTYLE "No Name" -1 216 1 {CSTYLE "" 
+-1 -1 "Courier" 1 24 255 0 0 1 2 1 2 2 1 2 1 1 1 1 }1 1 0 0 0 0 2 0 2 
+0 2 2 0 1 }{PSTYLE "No Name" -1 217 1 {CSTYLE "" -1 -1 "Courier" 1 24 
+255 0 0 1 2 1 2 2 1 2 1 1 1 1 }1 1 0 0 0 0 2 0 2 0 2 2 0 1 }{PSTYLE "N
+o Name" -1 218 1 {CSTYLE "" -1 -1 "Courier" 1 24 255 0 0 1 2 1 2 2 1 
+2 1 1 1 1 }1 1 0 0 0 0 2 0 2 0 2 2 0 1 }{PSTYLE "No Name" -1 219 1 
+{CSTYLE "" -1 -1 "Courier" 1 24 255 0 0 1 2 1 2 2 1 2 1 1 1 1 }1 1 0 
+0 0 0 2 0 2 0 2 2 0 1 }{PSTYLE "No Name" -1 220 1 {CSTYLE "" -1 -1 "Co
+urier" 1 24 255 0 0 1 2 1 2 2 1 2 1 1 1 1 }1 1 0 0 0 0 2 0 2 0 2 2 0 
+1 }{PSTYLE "No Name" -1 221 1 {CSTYLE "" -1 -1 "Courier" 1 24 255 0 0 
+1 2 1 2 2 1 2 1 1 1 1 }1 1 0 0 0 0 2 0 2 0 2 2 0 1 }{PSTYLE "No Name" 
+-1 222 1 {CSTYLE "" -1 -1 "Courier" 1 24 255 0 0 1 2 1 2 2 1 2 1 1 1 
+1 }1 1 0 0 0 0 2 0 2 0 2 2 0 1 }{PSTYLE "No Name" -1 223 1 {CSTYLE "" 
+-1 -1 "Courier" 1 24 255 0 0 1 2 1 2 2 1 2 1 1 1 1 }1 1 0 0 0 0 2 0 2 
+0 2 2 0 1 }{PSTYLE "No Name" -1 224 1 {CSTYLE "" -1 -1 "Courier" 1 24 
+255 0 0 1 2 1 2 2 1 2 1 1 1 1 }1 1 0 0 0 0 2 0 2 0 2 2 0 1 }{PSTYLE "N
+o Name" -1 225 1 {CSTYLE "" -1 -1 "Courier" 1 24 255 0 0 1 2 1 2 2 1 
+2 1 1 1 1 }1 1 0 0 0 0 2 0 2 0 2 2 0 1 }{PSTYLE "No Name" -1 226 1 
+{CSTYLE "" -1 -1 "Courier" 1 24 255 0 0 1 2 1 2 2 1 2 1 1 1 1 }1 1 0 
+0 0 0 2 0 2 0 2 2 0 1 }}
+{SECT 0 {EXCHG {PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT 
+-1 68 "MAT 155                 Project X                        Spring
+ 2014" }}{PARA 0 "" 0 "" {TEXT -1 91 "                   Concavity and
+ Inflection                                                " }
+{MPLTEXT 1 0 0 "" }}}{PARA 0 "" 0 "" {TEXT -1 1 " " }{MPLTEXT 1 0 0 "
+" }}{EXCHG {PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 0 
+"" }}{PARA 0 "" 0 "" {TEXT -1 126 "Your work should be done neatly in \+
+the same format as previous labs and saved regularly as yourname10.mws
+ and yourname10b.mws." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 
+"" {TEXT 211 38 "You should write comments as you work." }{TEXT -1 
+199 "  To do so just backspace in front of the prompt > and type in th
+e comments.  They should appear in black not in red.   When you finish
+ the lab be sure to go over your comments and check the grammar." }}}
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }{TEXT -1 0 "" }}{EXCHG {PARA 0 "
+" 0 "" {TEXT -1 73 "Problem 1: a)  Define the function g(x)=x^3-2x and
+ graph it from -5 to 5." }}{PARA 0 "" 0 "" {TEXT -1 76 "Approximately \+
+where is it increasing?  Approximately where is it decreasing?" }}
+{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 71 "b)  Find \+
+its derivative using D(g).  Graph the derivative from -5 to 5." }}
+{PARA 0 "" 0 "" {TEXT -1 65 "Use fsolve to find out exactly where it s
+witches from positive to" }}{PARA 0 "" 0 "" {TEXT -1 42 "negative.  Gr
+aph D(g) and g together using" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 31 "pl
+ot(\{D(g)(x), g(x)\}, x=-5..5);" }}{PARA 0 "" 0 "" {TEXT -1 48 "Exactl
+y where is g(x) increasing and decreasing?" }}{PARA 0 "" 0 "" {TEXT 
+-1 1 " " }}{PARA 0 "" 0 "" {TEXT -1 72 "c)  Now find D(D(g)) and plot \+
+it with g.  What is the sign of D(D(g)) at" }}{PARA 0 "" 0 "" {TEXT 
+-1 66 "x where g has a local maximum? local minimum?  Is g curving upw
+ard" }}{PARA 0 "" 0 "" {TEXT -1 69 "(concave up) when its second deriv
+ative is positive?  What about when" }}{PARA 0 "" 0 "" {TEXT -1 34 "th
+e second derivative is negative?" }}{PARA 0 "" 0 "" {TEXT -1 1 " " }}}
+{EXCHG {PARA 208 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 209 "> " 
+0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 210 "> " 0 "" {MPLTEXT 1 0 0 "
+" }}}{EXCHG {PARA 211 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 212 
+"> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 213 "> " 0 "" {MPLTEXT 1 
+0 0 "" }}}{EXCHG {PARA 214 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG 
+{PARA 215 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 216 "> " 0 "" 
+{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 217 "> " 0 "" {MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 218 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 219 "> " 
+0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 220 "> " 0 "" {MPLTEXT 1 0 0 "
+" }}}{EXCHG {PARA 221 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 222 
+"> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 223 "> " 0 "" {MPLTEXT 1 
+0 0 "" }}}{EXCHG {PARA 224 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG 
+{PARA 225 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 226 "> " 0 "" 
+{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 73 "Problem 2:  R
+epeat problem 1 for f(x)=sin(x) focusing on x= -2Pi to 2Pi.." }
+{MPLTEXT 1 0 0 "" }}{PARA 0 "" 0 "" {TEXT -1 1 " " }{MPLTEXT 1 0 0 "" 
+}{TEXT -1 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 71 "Problem 3: \+
+ Repeat problem 1 for f(x)=(x^2-1)/x focusing on x= -3 .. 3." }}{PARA 
+0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT -1 39 "Exploration:  Try some other funct
+ions." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}}
+{MARK "55 0 0" 0 }{VIEWOPTS 1 1 0 1 1 1803 1 1 1 1 }{PAGENUMBERS 0 1 
+2 33 1 1 }

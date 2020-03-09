@@ -1,0 +1,155 @@
+{VERSION 5 0 "IBM INTEL NT" "5.0" }
+{USTYLETAB {CSTYLE "Maple Input" -1 0 "Courier" 0 1 255 0 0 1 0 1 0 0 
+1 0 0 0 0 1 }{CSTYLE "2D Math" -1 2 "Times" 0 1 0 0 0 0 0 0 2 0 0 0 0 
+0 0 1 }{CSTYLE "2D Comment" 2 18 "" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 }
+{CSTYLE "2D Output" 2 20 "" 0 1 0 0 255 1 0 0 0 0 0 0 0 0 0 1 }
+{CSTYLE "" -1 256 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 
+257 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 258 "" 0 1 0 0 
+0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 259 "" 0 1 0 0 0 0 0 1 0 0 0 0 
+0 0 0 1 }{CSTYLE "" -1 260 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }
+{CSTYLE "" -1 261 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 
+262 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 263 "" 0 1 0 0 
+0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 264 "" 0 1 0 0 0 0 0 1 0 0 0 0 
+0 0 0 1 }{CSTYLE "" -1 265 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }
+{CSTYLE "" -1 266 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 
+267 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 268 "" 0 1 0 0 
+0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 269 "" 0 1 0 0 0 0 0 1 0 0 0 0 
+0 0 0 1 }{CSTYLE "" -1 270 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }
+{CSTYLE "" -1 271 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 }{PSTYLE "Normal
+" -1 0 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 }0 0 0 
+-1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "Maple Output" 0 11 1 {CSTYLE "" 
+-1 -1 "" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 }3 3 0 -1 -1 -1 0 0 0 0 0 0 
+-1 0 }{PSTYLE "Maple Plot" 0 13 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 0 
+0 0 0 0 0 0 0 1 }3 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "" 0 256 1 
+{CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }0 0 0 -1 -1 -1 0 
+0 0 0 0 0 -1 0 }{PSTYLE "" 0 257 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 
+1 0 0 0 0 0 0 0 1 }0 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "" 0 258 
+1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }0 0 0 -1 -1 -1 
+0 0 0 0 0 0 -1 0 }}
+{SECT 0 {EXCHG {PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 258 "" 0 "" 
+{TEXT -1 65 "MAT 155                 Project VII                     F
+all 2002" }}{PARA 0 "" 0 "" {TEXT 269 55 "                            \+
+    Derivatives            " }{TEXT -1 13 "             " }}{PARA 0 "
+" 0 "" {TEXT -1 0 "" }{MPLTEXT 1 0 8 "        " }}}{PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 0 "" }}{EXCHG {PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 
+0 "" {TEXT 258 25 "Do not work on this file." }{TEXT -1 118 "  This is
+ just the list of problems.  Open your own file and save it regularly \+
+as yourname7.mws and as yourname7b.mws." }{TEXT 259 1 " " }{TEXT -1 
+276 " Sign your name as a comment at the top of your file by backspaci
+ng in front of the prompt and typing.  Also write Project VII and the \+
+names of any other students you are working with.  Don't forget to num
+ber your problems and to type restart at the beginning of each problem
+." }}}{EXCHG {PARA 256 "" 0 "" {TEXT -1 1 " " }}{PARA 0 "" 0 "" {TEXT 
+256 89 "If you cannot complete a problem, go on to the next one and re
+turn to the problem later. " }{TEXT -1 9 " You can " }{TEXT 257 16 "ge
+t a new prompt" }{TEXT -1 236 " by selecting the prompt button right b
+elow the word \"spreadsheet\".  It has the symbol \"[>\" on it.  You m
+ust hit enter on every line of the problem in order, including the res
+tart line, to review what you've done for the Maple program. " }
+{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 1 " " }}{PARA 0 "
+" 0 "" {TEXT 260 31 "If you cannot recall a command " }{TEXT -1 160 "f
+rom a previous lab you may consult the command index which can be open
+ed up as a second window.  The name of the file with the command index
+ is 155.00.00.html." }}{PARA 0 "" 0 "" {TEXT -1 1 " " }{MPLTEXT 1 0 0 
+"" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 1 " " }}{PARA 0 "" 0 "" {TEXT 
+261 10 "Problem 1:" }{TEXT -1 33 " Recall how to define a function:" }
+{MPLTEXT 1 0 0 "" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 13 "f:= x -> x^2;" 
+}{TEXT -1 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 101 "Recall that the
+ derivative of a function is the limit as h approaches 0 of the \"diff
+erence quotient\":" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 16 "(f(x+h)-f(x))
+/h;" }{TEXT -1 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 44 "Here we are
+ using an h instead of the usual " }{XPPEDIT 18 0 "Delta;" "6#%&DeltaG
+" }{TEXT -1 2 "x." }}{PARA 0 "" 0 "" {TEXT -1 51 "You can find this li
+mit by expanding the numerator:" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 20 "
+expand(f(x+h)-f(x));" }{TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 99 "th
+en cancelling the h by hand and using direct substitution.  Do this an
+d then check your answer by" }}{PARA 0 "" 0 "" {TEXT -1 24 "using the \+
+limit command:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 33 "limit( ( \+
+f(x+h)-f(x) )/h , h=0 );" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 90 "Now i
+t is easy to take the limit as h goes to zero, and you can see that th
+e answer is 2x." }}{PARA 0 "" 0 "" {TEXT -1 17 "That is f'(x)=2x." }}
+{PARA 0 "" 0 "" {TEXT -1 1 " " }}{PARA 0 "" 0 "" {TEXT -1 95 "The comp
+uter can do all this work to find the derivative in one step if you us
+e the command D: " }{MPLTEXT 1 0 0 "" }}{PARA 0 "> " 0 "" {MPLTEXT 1 
+0 5 "D(f);" }{TEXT -1 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 69 "Noti
+ce that D(f) is a function.  So to graph it we must type D(f)(x):" }}
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 24 "plot( D(f)(x), x=-2..2);" }{TEXT 
+-1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT -1 256 "Now define the function g(x)= x^3-x.  Compute its deriva
+tive using the difference quotient by expanding the numerator, dividin
+g out the h and using direct substitution.  Then check using the limit
+ command and finally use the D command.  Then graph D(f)(x)." }}{PARA 
+0 "" 0 "" {TEXT -1 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 262 10 "Proble
+m 2:" }{TEXT -1 717 " Don't forget to restart.  Define a function f wh
+ich maps x to x^5.  Graph it.  Now we want to find the tangent line at
+ x=2.  Instead of using a loop command and graphing a lot of secant li
+nes, we can just use the fact that the difference quotient  (f(x+h)-f(
+x))/h measures the slope of the secant line through the points (x,f(x)
+) and ((x+h),f(x+h)).  So the slope of the tangent line can be found b
+y taking the limit of this difference quotient as h goes to 0 (then x+
+h goes to x).  In problem 1 we saw that this limit can be done quickly
+ using the D(f)(x) command.   So to find the slope of the tangent line
+ to the graph of f at (2,f(2)), we find the derivative of f using the \+
+D command and find its value at 2:    " }}{PARA 0 "> " 0 "" {MPLTEXT 
+1 0 8 "D(f)(2);" }}{PARA 0 "" 0 "" {TEXT -1 102 "This should be the sl
+ope of the graph of f at (2, f(2)).  So call it m by using the followi
+ng command:" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 11 "m:=D(f)(2);" }}
+{PARA 0 "" 0 "" {TEXT -1 67 "Now define the line through (2,4) with th
+e slope m as a function L:" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 22 "L:= x
+ -> m*(x-2)+f(2);" }{TEXT -1 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 
+51 "Then graph both f and L together using the command:" }}{PARA 0 "> \+
+" 0 "" {MPLTEXT 1 0 27 "plot(\{f(x),L(x)\}, x=-5..5);" }}{PARA 13 "" 
+1 "" {TEXT -1 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 64 "You can see \+
+that you have found the tangent line from the graph." }}{PARA 0 "" 0 "
+" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 265 "Now examine the graphs
+ near where they meet by plotting f(x) and L(x) together on smaller an
+d smaller intervals around x=2.  Try x in [1,3], x in [1.9, 2.1] and x
+ in [1.99, 2.01].  Note that the two graphs look almost the same!  For
+ this reason L(x) is called the \"" }{TEXT 270 37 "Linear Approximatio
+n of f(x) near x=2" }{TEXT -1 2 "\"." }}}{EXCHG {PARA 0 "" 0 "" {TEXT 
+-1 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" 
+{TEXT 265 8 "Problem " }{TEXT -1 0 "" }{TEXT 264 2 "3:" }{TEXT -1 76 "
+  Don't forget to restart.  Take  the function f which takes x  to  x^
+2+2x+1" }{TEXT 263 0 "" }}{PARA 0 "" 0 "" {TEXT -1 216 "and find its t
+angent lines at x=-2, x=2 and x=0.  Be sure to use different variables
+ to represent the slope (like firstm, secondm and thirdm) and to give \+
+the lines different names (like firstL, secondL and thirdL).  " }
+{TEXT 271 193 "In computers it is common to use entire words for funct
+ions and variables. In math we cannot do this because when letters are
+ placed next to each other it is assumed that they are multiplied.  " 
+}{TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 314 "Now graph all three tan
+gent lines together with f(x) by including all of them in the brackets
+\{\}, and write a comment discussing which lines are increasing and de
+creasing.  Recall that a graph is increasing if it goes up when travel
+ling from  left to right and it is decreasing when it goes down from l
+eft to right." }}{PARA 0 "" 0 "" {TEXT -1 1 " " }{MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 257 "" 0 "" {TEXT -1 12 "Exploration:" }}{PARA 0 "" 0 "" 
+{TEXT 266 6 "A:    " }{TEXT -1 215 "A ball is thrown straight up in th
+e air and its height is described by the formula h(t)= -4.9 t^2 +100t \+
++2 meters where t measures the time in seconds.  The velocity is then \+
+described by the function v(t)=D(h)(t).  " }}{PARA 0 "" 0 "" {TEXT -1 
+515 "What is the initial velocity v(0)?  When a ball is thrown straigh
+t up in the air, its velocity starts out positive then right before th
+e ball starts to drop back down the velocity is zero and when the ball
+ goes down the velocity is negative.  To find out how high the ball go
+es before it falls, solve for when the velocity is zero (v(t)=0) and t
+hen substitute the answer into the height equation h(t).  To find out \+
+when the ball hits the ground solve for h(t)=0 and only accept a posit
+ive answer (time starts at 0)." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }
+{TEXT 267 4 "B:  " }{TEXT -1 110 "Write a loop program which tells you
+ t, h(t),v(t) for t from 1 to 20 (consult the command index if necessa
+ry)." }}{PARA 0 "" 0 "" {TEXT -1 52 "Be sure to save your work before \+
+running the loop.  " }}{PARA 0 "" 0 "" {TEXT 268 4 "C:  " }{TEXT -1 
+45 "The last line of the loop's output should be " }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6%\"#?$\"$?%!\"\"$!$g*F&" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT -1 110 "This means that at time t=20 seconds, the ball is 42 met
+ers high and falling downward at 96 meters per second." }}{PARA 0 "" 
+0 "" {TEXT -1 340 "Using this information you can find the tangent lin
+e, L(t), to h(t) at t=20 seconds.  This tangent line is a linear appro
+ximation of h and can be used to estimate the values of h near t=20.  \+
+To see this plot L(t) and f(t) for t in [19,20].   If we fsolve(L(t)=0
+, t=19..21),  we can see when the linear approximation of the height h
+its zero." }}{PARA 0 "" 0 "" {TEXT -1 130 "This should be a good estim
+ate for when the height itself hits zero fsolve(h(t), t=19..20);  This
+ idea has been used since Newton." }}}}{MARK "0 1 0" 65 }{VIEWOPTS 1 
+1 0 1 1 1803 1 1 1 1 }{PAGENUMBERS 0 1 2 33 1 1 }

@@ -1,0 +1,251 @@
+{VERSION 5 0 "IBM INTEL NT" "5.0" }
+{USTYLETAB {CSTYLE "Maple Input" -1 0 "Courier" 0 1 255 0 0 1 0 1 0 0 
+1 0 0 0 0 1 }{CSTYLE "" -1 256 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }
+{CSTYLE "" -1 257 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 
+258 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 259 "" 0 1 0 0 
+0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 260 "" 0 1 0 0 0 0 0 1 0 0 0 0 
+0 0 0 1 }{CSTYLE "" -1 261 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }
+{CSTYLE "" -1 262 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 
+263 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 264 "" 0 1 0 0 
+0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 265 "" 0 1 0 0 0 0 0 1 0 0 0 0 
+0 0 0 1 }{CSTYLE "" -1 266 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }
+{CSTYLE "" -1 267 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 
+268 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 269 "" 0 1 0 0 
+0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 270 "" 0 1 0 0 0 0 0 1 0 0 0 0 
+0 0 0 1 }{CSTYLE "" -1 271 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }
+{CSTYLE "" -1 272 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 
+273 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 274 "" 0 1 0 0 
+0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 275 "" 0 1 0 0 0 0 0 1 0 0 0 0 
+0 0 0 1 }{CSTYLE "" -1 276 "" 0 1 0 0 0 0 1 1 0 0 0 0 0 0 0 1 }
+{CSTYLE "" -1 277 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 
+278 "" 0 1 0 0 0 0 1 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 279 "" 0 1 0 0 
+0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 281 "" 0 1 0 0 0 0 0 1 0 0 0 0 
+0 0 0 1 }{CSTYLE "" -1 282 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }
+{CSTYLE "" -1 283 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 
+284 "" 0 1 0 0 0 0 1 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 285 "" 0 1 0 0 
+0 0 1 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 286 "" 0 1 0 0 0 0 1 1 0 0 0 0 
+0 0 0 1 }{CSTYLE "" -1 287 "" 0 1 0 0 0 0 1 1 0 0 0 0 0 0 0 1 }
+{CSTYLE "" -1 288 "" 0 1 0 0 0 0 1 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 
+289 "" 0 1 0 0 0 0 1 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 290 "" 0 1 0 0 
+0 0 1 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 291 "" 0 1 0 0 0 0 1 1 0 0 0 0 
+0 0 0 1 }{CSTYLE "" -1 292 "" 0 1 0 0 0 0 1 1 0 0 0 0 0 0 0 1 }
+{CSTYLE "" -1 293 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 }{PSTYLE "Normal
+" -1 0 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 }0 0 0 
+-1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "Maple Output" 0 11 1 {CSTYLE "" 
+-1 -1 "" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 }3 3 0 -1 -1 -1 0 0 0 0 0 0 
+-1 0 }{PSTYLE "Maple Plot" 0 13 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 0 
+0 0 0 0 0 0 0 1 }3 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "" 0 256 1 
+{CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }0 0 0 -1 -1 -1 0 
+0 0 0 0 0 -1 0 }{PSTYLE "" 0 257 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 
+1 0 0 0 0 0 0 0 1 }0 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "" 0 258 
+1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }0 0 0 -1 -1 -1 
+0 0 0 0 0 0 -1 0 }{PSTYLE "" 0 259 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 
+0 1 0 0 0 0 0 0 0 1 }0 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "" 0 
+260 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }0 0 0 -1 
+-1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "" 0 261 1 {CSTYLE "" -1 -1 "" 0 1 0 
+0 0 0 0 1 0 0 0 0 0 0 0 1 }0 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "
+" 0 262 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }0 0 0 
+-1 -1 -1 0 0 0 0 0 0 -1 0 }}
+{SECT 0 {EXCHG {PARA 256 "" 0 "" {TEXT -1 0 "" }}{PARA 257 "" 0 "" 
+{TEXT -1 66 "MAT 155                 Project VIII                     \+
+Fall 2002" }}{PARA 258 "" 0 "" {TEXT -1 69 "                          \+
+    Newton's Method                        " }}{PARA 0 "" 0 "" {TEXT 
+-1 0 "" }{MPLTEXT 1 0 0 "" }}}{PARA 0 "" 0 "" {TEXT -1 1 " " }
+{MPLTEXT 1 0 0 "" }}{EXCHG {PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 
+0 "" {TEXT 256 26 "You may work on this file." }{TEXT -1 18 "  Don't f
+orget to " }{TEXT 258 17 "save it regularly" }{TEXT -1 40 " as yournam
+e8.mws and as yourname8b.mws." }{TEXT 257 1 " " }{TEXT -1 260 " Sign y
+our name as a comment at the top of the file by backspacing in front o
+f the prompt and typing.  Also write  the names of any other students \+
+you are working with.  Don't forget to number your problems and to typ
+e restart at the beginning of each problem." }}{PARA 0 "" 0 "" {TEXT 
+-1 59 "If you need more space to work than you are given, you can " }
+{TEXT 259 16 "get a new prompt" }{TEXT -1 100 " by selecting the promp
+t button right below the word \"spreadsheet\".  It has the symbol \"[>
+\" on it.  " }}}{EXCHG {PARA 259 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 
+"" {TEXT -1 504 "Suppose we want to solve f(x)=0.  We already know tha
+t we can use solve or fsolve.  However, we do not really unerstand how
+ Maple finds these solutions.  When we type solve, Maple uses formulas
+ like the quadratic formula and algebraic techniques just like you hav
+e all learned in algebra.  When we type fsolve Maple uses numerical te
+chniques similar to the ones we will learn today to find the decimal e
+xpansion of a solution.  These techniques will also give you an introd
+uction to computer programming." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}
+{PARA 260 "" 0 "" {TEXT -1 48 "Problem I:  The Method of Tabulation an
+d Loops: " }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 265 "Suppose we want to \+
+find the real roots of a continuous function.  We know that if a conti
+nuous function is positive at one point and negative at another point \+
+then  it must be zero somewhere in between the two points.  This is ca
+lled the intermediate value theorem." }}{PARA 0 "" 0 "" {TEXT -1 0 "" 
+}}{PARA 0 "" 0 "" {TEXT -1 137 "Let f(x)= x^3-x-1;  We want to find a \+
+real solutions of f(x) = 0 using the intermediate value theorem.  Hit \+
+enter on the following lines:" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 28 " f
+ := x ->  x^3 - x - 1;    " }{TEXT -1 0 "" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 24 "plot(f(x), x=-10 .. 10);" }}{PARA 13 "" 1 "" {TEXT 
+-1 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 
+0 "" 0 "" {TEXT -1 153 "The plot shows there is only one real root, in
+  (-2, 3).  It is not clear where the graph is positive or negative be
+tween -2 and 3, so we can just check:" }}{PARA 0 "> " 0 "" {MPLTEXT 1 
+0 36 "f(-2), f(-1),f(0), f(1), f(2), f(3);" }{TEXT -1 0 "" }}}{EXCHG 
+{PARA 0 "" 0 "" {TEXT -1 70 "And see that f(1)<0 and f(2)>0 so there i
+s a solution between 1 and 2." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}
+{PARA 0 "" 0 "" {TEXT -1 238 "If we check every number 1.0, 1.1, 1.2,.
+. 1.9, 2.0, then we can find out what the solution is with an accuracy
+ of one decimal place.  This would take a while to work out by hand, b
+ut a computer can do it quickly.  In fact we can write a \"" }{TEXT 
+264 14 "Loop\" Program " }{TEXT -1 26 "and tell the computer that" }
+{TEXT 260 6 " for x" }{TEXT -1 20 " = numbers starting " }{TEXT 267 7 
+"from 1 " }{TEXT -1 1 " " }{TEXT 261 3 "by " }{TEXT -1 21 "taking step
+s of size " }{TEXT 262 4 "0.1 " }{TEXT -1 13 "until you get" }{TEXT 
+266 8 " to 2 do" }{TEXT -1 13 " the command " }{TEXT 263 7 "x, f(x)" }
+{TEXT -1 88 ".   Recall that the words for, from, by, to, do and od ar
+e all commands that you can use" }}{PARA 0 "" 0 "" {TEXT -1 88 "to wri
+te a loop program.  do and od are placed on either side of the list of
+ commands.  " }{TEXT 277 1 " " }{TEXT 278 94 "Be sure to save your fil
+e before clicking enter on this loop in case it crashes the computer! \+
+" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 46 
+"for x from 1  by  0.1  to  2  do  x, f(x)  od;" }}}{EXCHG {PARA 0 "" 
+0 "" {TEXT -1 143 "The output shows that there is a solution of f(x) =
+ 0  in (1.3, 1.4).   To pinpoint the solution, test f(x) in (1.3, 1.4)
+, taking step =  0.01:" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 51 "for x fro
+m 1.3  by  0.01  to  1.4  do  x, f(x)  od;" }}}{PARA 0 "" 0 "" {TEXT 
+-1 78 "Since  1.32 <  c < 1.33, the solution c = 1.3 is accurate to 1 \+
+decimal place. " }}{EXCHG {PARA 0 "" 0 "" {TEXT -1 138 "Now you repeat
+ this process until you get a solution which is accurate to 3 decimal \+
+places.  Write comments explaining what you are doing." }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 
+265 27 "Problem 2:  The while loop:" }}{PARA 0 "" 0 "" {TEXT -1 297 "N
+ow suppose you have a slow computer and you don't want it to bother do
+ing all the computations.  After all, you know that for the f in probl
+em 1, f(1)<0 and f(2) >0.  You need only check f(1), f(1.1) and so on \+
+until you get a negative answer.  So you use a \"while loop\" and tell
+ the computer that" }{TEXT 268 6 " for x" }{TEXT -1 20 " = numbers sta
+rting " }{TEXT 273 7 "from 1 " }{TEXT -1 1 " " }{TEXT 269 3 "by " }
+{TEXT -1 21 "taking steps of size " }{TEXT 270 4 "0.1 " }{TEXT -1 13 "
+until you get" }{TEXT 272 21 " to 2 while f(x)<0 do" }{TEXT -1 13 " th
+e command " }{TEXT 271 11 "x, f(x).   " }{TEXT -1 117 " This means tha
+t the computer should only keep working while f(x)<0 and stop when f(x
+) is bigger than or equal to 0. " }{TEXT 283 1 " " }{TEXT 276 99 "Be s
+ure to save your file before clicking enter on the while loop in case \+
+it crashes the computer! " }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 62 "for x \+
+from 1  by  0.1  to  2 while (f(x) < 0) do  x, f(x)  od;" }}}{EXCHG 
+{PARA 0 "" 0 "" {TEXT -1 264 "This output tells us that the computer g
+ot f(1.3)<0 but f(1.4)>0.  It didn't bother to do the command  1.4, f(
+1.4) because the answer f(1.4) wasn't negative anymore.  Now you can c
+ontinue with another while loop to find the decimal expansion to two d
+ecimal places." }{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 274 27 "Problem 3: N
+ewton's Method:" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 546 "Using the Met
+hod of Tabulation described above you have to run the for or while loo
+ps over and over, one time for each extra digit of accuracy.  This is \+
+not very efficient because you are just dividing the intervals up into
+ ten pieces every time and doing lots of computations.   If the functi
+on you are working with is a differentiable function then you can use \+
+another technique called Newton's Method.  It won't always work, but i
+t often works faster than the method of tabulation.  The idea is to us
+e tangent lines to point towards solutions." }}{PARA 0 "" 0 "" {TEXT 
+-1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 112 "We are going to use the same f
+unction again so we won't type restart, but we do need to clear the va
+lue for x.  " }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 7 "x:='x';" }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT -1 71 "Recall that for a function f, the \+
+slope of the tangent line at a point " }{TEXT 284 1 "a" }{TEXT -1 4 " \+
+is " }{TEXT 285 11 "m:= D(f)(a)" }{TEXT -1 17 " and the line is " }}
+{PARA 0 "" 0 "" {TEXT 286 26 "y= (D(f)(a)) (x-a) +f(a). " }{TEXT -1 1 
+" " }}{PARA 0 "" 0 "" {TEXT -1 123 "So for example, if we take the fun
+ction f from problem 1, we can find the tangent line at 1 and graph it
+ with the function:" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 49 "plot(\{ f(x)
+ , D(f)(1)*( x-1 ) + f(1) \}, x=-2..3);" }}{PARA 13 "" 1 "" {TEXT -1 
+0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 47 "Recall from last week that
+ the tangent line at " }{TEXT 287 1 "a" }{TEXT -1 38 " is the linear a
+pproximation for f at " }{TEXT 288 1 "a" }{TEXT -1 24 ".  This means t
+hat near " }{TEXT 289 1 "a" }{TEXT -1 22 " the tangent line and " }
+{TEXT 290 2 "f " }{TEXT -1 198 "are rather close to each other.  In pa
+rticular, in the graph you've just plotted, you can see that the tange
+nt line crosses the x axis near where the function crosses the x axis.
+  So we can find out" }{MPLTEXT 1 0 1 " " }{TEXT -1 45 "where it cross
+es doing some simple algebra:  " }}{PARA 0 "" 0 "" {TEXT 291 72 "(D(f)
+(1))*(x-1)+f(1)=0   (D(f)(1))(x-1) = - f(1)  x-1= -f(1)/D((f)(1))  " }
+}{PARA 0 "" 0 "" {TEXT -1 4 "so  " }{TEXT 292 21 "x = 1- f(1)/(D(f)(1)
+)" }{TEXT -1 67 " .  We can call this x where the line crosses the x a
+xis, \"crossa\" " }{TEXT 293 91 "(In computers it is common to use an \+
+entire word for a variable instead of just one letter)" }{TEXT -1 1 ":
+" }{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 26 "cros
+sa:= 1-f(1)/(D(f)(1));" }{TEXT -1 0 "" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT -1 54 "and find the tangent line to f at a point a  = crossa:" }
+{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 64 "a:= eva
+lf(crossa); plot(\{f(x), (D(f)(a))*(x-a)+f(a)\}, x= -2..3);" }}{PARA 
+13 "" 1 "" {TEXT -1 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 230 "Now t
+his tangent line crosses very close to the same place f does.  It is e
+asy to repeat the process and choose a new crossa where this tangent l
+ine crosses:  We will call it \"crossa\" again.  The old crossa is jus
+t called \"a\" now." }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 40 "crossa:=a-f(
+a)/(D(f)(a)); evalf(crossa);" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 58 "N
+ow lets find the tangent line to f at a= this new crossa." }{MPLTEXT 
+1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 64 "a:= evalf(crossa
+); plot(\{f(x), (D(f)(a))*(x-a)+f(a)\}, x= -2..3);" }}{PARA 13 "" 1 "
+" {TEXT -1 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 92 "Now we check wh
+ere it crosses, and can use the same formula as before to get a third \+
+crossa:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 40 "crossa:=a-f(a)/(
+D(f)(a)); evalf(crossa);" }{TEXT -1 0 "" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT -1 47 "Lets repeat this again using the same commands:" }}{PARA 
+0 "> " 0 "" {MPLTEXT 1 0 64 "a:= evalf(crossa); plot(\{f(x), (D(f)(a))
+*(x-a)+f(a)\}, x= -2..3);" }{TEXT -1 0 "" }}{PARA 13 "" 1 "" {TEXT -1 
+0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 40 "crossa:=a-f(a)/(D(f)
+(a)); evalf(crossa);" }{TEXT -1 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 
+-1 214 "Note that we've already found an answer which is accurate up t
+o 2 decimal places, 1.32.  To compute the error it is standard to comp
+are the old crossa (which is now called a) with the new cross a.  We n
+eed to find " }}{PARA 0 "" 0 "" {TEXT -1 85 "|crossa -a | and since th
+e command in Maple for the absolute value is abs we write:  " }
+{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 20 "err:= a
+bs(crossa-a);" }{TEXT -1 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 214 "
+Now suppose we want an error which is less than .0000001.  We need to \+
+keep repeating these commands.  One way to do this would be to use a f
+or loop and a counter j which counts the number of repetitions (up to \+
+10):" }}{PARA 261 "" 0 "" {TEXT -1 133 "for j from 1 by 1 to 10 do plo
+t (tan line at a), crossa:=a-f(a)/(D(f)(a)); evalf(crossa); error:=abs
+(crossa-a); a:=evalf(crossa); od;" }}{PARA 0 "" 0 "" {TEXT -1 406 "Not
+e that we must start by giving the first a and error values to start w
+ith. Then the computer will graph the tan line find the cross compute \+
+the error and set the new a to be the crossa before repeating the proc
+ess.   However there is no reason to make the computer do j steps if t
+he error is alread small enough.  There is also no reason to keep plot
+ting the graph.  So we use the following while loop. " }{TEXT 275 100 
+" Be sure to save your file before clicking enter on the while loop in
+ case it crashes the computer! " }{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 
+"> " 0 "" {MPLTEXT 1 0 13 "a:=1; err:=1;" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 126 " for j from 1 by 1 to 10 while (err>0.0000001) do j;
+crossa:=a-f(a)/(D(f)(a)); err:=evalf(abs(crossa-a)); a:=evalf(crossa);
+ od;" }}{PARA 11 "" 1 "" {TEXT -1 0 "" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT -1 91 "Notice that it only takes 6 steps!  Now what would happen
+ if we started with a different a:" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 
+13 "a:=0; err:=1;" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 126 " for j from 1
+ by 1 to 30 while (err>0.0000001) do j;crossa:=a-f(a)/(D(f)(a)); err:=
+evalf(abs(crossa-a)); a:=evalf(crossa); od;" }}{PARA 11 "" 1 "" {TEXT 
+-1 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 348 "This time 10 steps hav
+e gone by and the error is still large.  So increase the number of ste
+ps.  If you increase it to 20 steps the error is small but not small e
+nough yet.  If you increase it to 30 steps it is done in 22 steps and \+
+it says that the error is 0.  The error is probably not zero but some \+
+number which has 0's for the first ten places." }}{PARA 0 "" 0 "" 
+{TEXT 279 13 "Exploration: " }{TEXT -1 79 "  Cut and paste the Newton'
+s Method while loop so you can use it for your work:" }}}{EXCHG {PARA 
+0 "" 0 "" {TEXT 281 10 "Problem A:" }{TEXT -1 109 "  Try f(x)=sin(x) a
+nd starting with a=2 use Newton's method to find the value of Pi up to
+ 8 decimal places.  " }{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT 282 12 "Problem B:  " }{TEXT -1 571 "If you would like to design
+ some while an for loops of your own, do them in another file and be c
+areful to save regularly.  Loops can ask too much of a computer and ca
+use it to crash if they are accidently written incorrectly.  If you wa
+nt to try this at home, remember that if your computer freezes you can
+ type Ctrl Alt Delete and you will be asked if you would like to End a
+ Task.  Choose Maple and the computer will just crash Maple and not al
+l the other programs.  Everything you did after your last save will be
+ lost.  You can open Maple again and continue working." }}{PARA 0 "" 
+0 "" {TEXT -1 0 "" }}{PARA 262 "" 0 "" {TEXT -1 344 "If you are intere
+sted in a career designing programs that perform calculations you shou
+ld major in both Mathematics and Computer Science.  It is not importan
+t to complete two majors but to complete all the requirements for each
+ major.  Then plan to get a masters in Numerical Methods (this can be \+
+done either in a math dept or a comp sci dept)." }}}}{MARK "40" 0 }
+{VIEWOPTS 1 1 0 1 1 1803 1 1 1 1 }{PAGENUMBERS 0 1 2 33 1 1 }

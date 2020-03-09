@@ -1,0 +1,245 @@
+{VERSION 3 0 "Windows XP" "3.0" }
+{USTYLETAB {PSTYLE "Ordered List 1" -1 200 1 {CSTYLE "" -1 -1 "Times"
+ 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 0 2 0 2 2 -1 1 }
+{PSTYLE "Ordered List 2" -1 201 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 
+1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 36 2 0 2 2 -1 1 }{PSTYLE "Ordered
+ List 3" -1 202 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 
+0 0 1 }1 1 0 0 3 3 2 72 2 0 2 2 -1 1 }{PSTYLE "Ordered List 4" -1 203 
+1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3
+ 3 2 108 2 0 2 2 -1 1 }{PSTYLE "Ordered List 5" -1 204 1 {CSTYLE "" -1
+ -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 144 2 0 2 
+2 -1 1 }{PSTYLE "Author" -1 19 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1
+ 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 8 8 2 0 2 0 2 2 -1 1 }{PSTYLE "Warning" 
+-1 7 1 {CSTYLE "" -1 -1 "Courier" 1 10 0 0 255 1 2 2 2 2 2 1 1 0 0 1 }
+1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Annotation Title" -1 205 1 
+{CSTYLE "" -1 -1 "Times" 1 18 0 0 0 1 2 1 2 2 2 2 1 0 0 1 }3 1 0 0 12 
+12 2 0 2 0 2 2 -1 1 }{PSTYLE "Fixed Width" -1 17 1 {CSTYLE "" -1 -1 "C
+ourier" 1 10 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 0 2 2 -1 1
+ }{PSTYLE "Maple Plot" -1 13 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2
+ 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Line Printe
+d Output" -1 6 1 {CSTYLE "" -1 -1 "Courier" 1 10 0 0 255 1 2 2 2 2 2 1
+ 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Help" -1 10 1 {CSTYLE
+ "" -1 -1 "Courier" 1 9 0 0 255 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0
+ 2 0 2 2 -1 1 }{PSTYLE "Text Output" -1 2 1 {CSTYLE "" -1 -1 "Courier"
+ 1 10 0 0 255 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }
+{PSTYLE "Diagnostic" -1 9 1 {CSTYLE "" -1 -1 "Courier" 1 10 64 128 64 
+1 2 2 2 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Normal" 
+-1 0 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 
+0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Maple Output" -1 11 1 {CSTYLE "" -1
+ -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 0 2 2 
+-1 1 }{PSTYLE "Dash Item" -1 16 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 
+1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 0 2 0 2 2 -1 1 }{PSTYLE "Hyperlin
+kError" -1 206 1 {CSTYLE "" -1 -1 "Courier New" 1 12 255 0 255 1 2 2 1
+ 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Error" -1 8 1 
+{CSTYLE "" -1 -1 "Courier" 1 10 255 0 255 1 2 2 2 2 2 1 1 0 0 1 }1 1 0
+ 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Title" -1 18 1 {CSTYLE "" -1 -1 "Tim
+es" 1 18 0 0 0 1 2 1 1 2 2 2 1 0 0 1 }3 1 0 0 12 12 2 0 2 0 2 2 -1 1 }
+{PSTYLE "Heading 1" -1 3 1 {CSTYLE "" -1 -1 "Times" 1 18 0 0 0 1 2 1 2
+ 2 2 2 1 0 0 1 }1 1 0 0 8 4 2 0 2 0 2 2 -1 1 }{PSTYLE "Bullet Item" -1
+ 15 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0
+ 0 3 3 2 0 2 0 2 2 -1 1 }{PSTYLE "Heading 4" -1 20 1 {CSTYLE "" -1 -1 
+"Times" 1 10 0 0 0 1 1 1 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1
+ }{PSTYLE "Heading 3" -1 5 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 1 1
+ 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Heading 2" -1
+ 4 1 {CSTYLE "" -1 -1 "Times" 1 14 0 0 0 1 2 1 2 2 2 2 1 0 0 1 }1 1 0 
+0 8 2 2 0 2 0 2 2 -1 1 }{PSTYLE "HyperlinkWarning" -1 207 1 {CSTYLE ""
+ -1 -1 "Courier New" 1 12 0 0 255 1 2 2 1 2 2 1 1 0 0 1 }1 1 0 0 0 0 2
+ 0 2 0 2 2 -1 1 }{PSTYLE "Left Justified Maple Output" -1 12 1 {CSTYLE
+ "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 
+0 2 2 -1 1 }{PSTYLE "List Item" -1 14 1 {CSTYLE "" -1 -1 "Times" 1 12 
+0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 0 2 0 2 2 -1 1 }{CSTYLE "He
+lp Maple Name" -1 35 "Times" 1 12 104 64 92 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "Help Menus" -1 36 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "Help Italic" -1 42 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }
+{CSTYLE "Help Italic Bold" -1 40 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 
+0 1 }{CSTYLE "Default" -1 38 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 
+}{CSTYLE "Maple Input" -1 0 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 0 0 0
+ 1 }{CSTYLE "2D Output" -1 20 "Times" 1 12 0 0 255 1 2 2 2 2 2 2 0 0 0
+ 1 }{CSTYLE "2D Math Small" -1 7 "Times" 1 1 0 0 0 1 2 2 2 2 2 2 0 0 0
+ 1 }{CSTYLE "Output Labels" -1 29 "Times" 1 8 0 0 0 1 2 2 2 2 2 2 0 0 
+0 1 }{CSTYLE "Maple Input Placeholder" -1 200 "Courier New" 1 12 200 0
+ 200 1 2 1 2 2 1 2 0 0 0 1 }{CSTYLE "Code" -1 201 "Courier New" 1 12 
+255 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Italic Small" -1 202 "
+Times" 1 1 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "Copyright" -1 34 "Tim
+es" 1 10 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Underlined" -1 44 
+"Times" 1 12 0 0 0 1 2 2 1 2 2 2 0 0 0 1 }{CSTYLE "2D Input" -1 19 "Ti
+mes" 1 12 255 0 0 1 2 2 2 2 1 2 0 0 0 1 }{CSTYLE "Header and Footer" 
+-1 203 "Times" 1 10 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Notes" 
+-1 37 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Equation Labe
+l" -1 204 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "LaTeX" -1
+ 32 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Dictionary Hype
+rlink" -1 45 "Times" 1 12 147 0 15 1 2 2 1 2 2 2 0 0 0 1 }{CSTYLE "Pop
+up" -1 31 "Times" 1 12 0 128 128 1 1 2 1 2 2 2 0 0 0 1 }{CSTYLE "Help \+
+Fixed" -1 23 "Courier" 1 10 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Anno
+tation Text" -1 205 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE 
+"2D Math Bold" -1 5 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE 
+"2D Math Italic" -1 3 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }
+{CSTYLE "Plot Text" -1 28 "Times" 1 8 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }
+{CSTYLE "Help Normal" -1 30 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }
+{CSTYLE "Help Nonterminal" -1 24 "Courier" 1 12 0 0 0 1 2 1 2 2 2 2 0 
+0 0 1 }{CSTYLE "Help Heading" -1 26 "Times" 1 14 0 0 0 1 2 1 2 2 2 2 0
+ 0 0 1 }{CSTYLE "Help Variable" -1 25 "Courier" 1 12 0 0 0 1 2 2 2 2 2
+ 2 0 0 0 1 }{CSTYLE "Help Underlined Italic" -1 43 "Times" 1 12 0 0 0 
+1 1 2 1 2 2 2 0 0 0 1 }{CSTYLE "2D Math Bold Small" -1 10 "Times" 1 1 
+0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Page Number" -1 33 "Times" 1 12 
+0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Plot Title" -1 27 "Times" 1 10 0
+ 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Help Emphasized" -1 22 "Times" 1 
+12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Symbol 2" -1 16 "Time
+s" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Maple Comment" -1 21 "Co
+urier" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Caption Reference" 
+-1 206 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "2D Inert Out
+put" -1 207 "Times" 1 12 144 144 144 1 2 2 2 2 1 2 0 0 0 1 }{CSTYLE "2
+D Comment" -1 18 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "He
+lp Underlined Bold" -1 41 "Times" 1 12 0 0 0 1 1 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "Hyperlink" -1 17 "Times" 1 12 0 128 128 1 2 2 1 2 2 2 0 0 0 1
+ }{CSTYLE "Prompt" -1 1 "Courier" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "2D Math" -1 2 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }
+{CSTYLE "Text" -1 208 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }
+{CSTYLE "Help Bold" -1 39 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "Caption Text" -1 209 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1
+ }{CSTYLE "" -1 210 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE 
+"" -1 211 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 208 
+1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 1 0 0 1 }1 1 0 0 0
+ 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 209 1 {CSTYLE "" -1 -1 "Times" 1 12
+ 0 0 0 1 2 1 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{CSTYLE ""
+ -1 212 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 210 1 
+{CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 1 0 0 1 }1 1 0 0 0 0
+ 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 211 1 {CSTYLE "" -1 -1 "Times" 1 12 0
+ 0 0 1 2 1 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{CSTYLE "" 
+-1 213 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 214 "Ti
+mes" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 215 "Times" 1 12 
+0 0 0 1 1 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 216 "Times" 1 12 0 0 0 1 1 
+2 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 217 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 
+0 0 0 1 }{PSTYLE "" -1 212 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 1 2
+ 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 213 1 
+{CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 1 0 0 1 }1 1 0 0 0 0
+ 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 214 1 {CSTYLE "" -1 -1 "Times" 1 12 0
+ 0 0 1 2 1 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{CSTYLE "" 
+-1 218 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 215 1 
+{CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 1 0 0 1 }1 1 0 0 0 0
+ 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 216 1 {CSTYLE "" -1 -1 "Times" 1 12 0
+ 0 0 1 1 2 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" 
+-1 217 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 1 0 0 1 }1 
+1 0 0 0 0 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 219 "Times" 1 12 0 0 0 1 1 2
+ 2 2 2 2 0 0 0 1 }}
+{SECT 0 {EXCHG {PARA 0 "" 0 "" {TEXT 220 0 "" }}{PARA 0 "" 0 "" {TEXT
+ 220 61 "MAT 155                Index                      Spring 2014
+" }}{PARA 0 "" 0 "" {TEXT 220 38 "                    A List of Comman
+ds" }}{PARA 0 "" 0 "" {TEXT 220 0 "" }{MPLTEXT 1 0 0 "" }}}{EXCHG 
+{PARA 0 "" 0 "" {TEXT 220 578 "To find a specific command, go up to th
+e Maple V Bar, choose the \"Edit\" and select \"Find\".  Type in the c
+ommand you are looking for and hit the \"Find Next\" button.  You may \+
+also try the \"Find Previous\" button if that fails.  It is better to \+
+type the command or to scan the list than to try to find a word like d
+erivative or differentiation as very few words are written in this fil
+e.  No explanation is given for the command; just hit enter to see wha
+t it does.  Be warned that it may do nothing without some definitions \+
+first.  Some error messages are also included at the end." }}{PARA 0 "
+" 0 "" {TEXT 220 1 " " }{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT 220 0 "" }}{PARA 0 "" 0 "" {TEXT 210 17 "Some arithmetic: " }
+{TEXT 220 41 "(multiplication, division, exponents etc)" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 6 "1+2*3;" }{TEXT 220 0 "" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 8 "(1+2)*3;" }{TEXT 220 0 "" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 6 "6-4/2;" }{TEXT 220 0 "" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 8 "(6-4)/2;" }{TEXT 220 0 "" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 4 "3^2;" }{TEXT 220 0 "" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 6 "3*2^2;" }{TEXT 220 0 "" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 4 "1/2;" }{TEXT 220 0 "" }}}{EXCHG 
+{PARA 0 "" 0 "" {TEXT 220 38 "quoting a result from a previous line:" 
+}}{PARA 0 "> " 0 "" {MPLTEXT 1 0 2 "%;" }{TEXT 220 0 "" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 8 "(%-3)^2;" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT 220 0 "" }}{PARA 0 "" 0 "" {TEXT 211 18 "Decimal expansion:" }
+{TEXT 220 57 " (trig functions use radians, square root, logs, e^x etc
+)" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 11 "evalf(1/2);" }{TEXT 
+220 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 10 "evalf(Pi);" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 13 "evalf(Pi,20);" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 8 "sqrt(4);" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 8 "cos(30);" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+10 "sin(Pi/2);" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 6 "ln(3);" }}
+}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 7 "exp(x);" }}}{EXCHG {PARA 0 "
+> " 0 "" {MPLTEXT 1 0 10 "arccos(1);" }}}{EXCHG {PARA 208 "" 0 "" 
+{TEXT 208 0 "" }}{PARA 209 "" 0 "" {TEXT 208 32 "Setting Variables and
+ Constants:" }{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 
+1 0 3 "Pi;" }{TEXT 220 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 220 19 "se
+tting a variable:" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 6 "a:=15;" }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT 220 29 "letting maple know what e is:" }}
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 11 "e:= exp(1);" }}}{EXCHG {PARA 0 "" 0
+ "" {TEXT 220 20 "clearing a variable:" }}{PARA 0 "> " 0 "" {MPLTEXT 
+1 0 6 "a:='a'" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 220 0 "" }}{PARA 0 "" 0
+ "" {TEXT 212 12 "Functions:  " }{TEXT 220 35 "(defining, evaluating, \+
+solving etc)" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 19 "f:= x -> x^2+2*x+4;
+" }{TEXT 220 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 5 "f(5);" }
+}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 13 "factor(f(x));" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 15 "simplify(f(x));" }{TEXT 220 0 "" }}
+}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 13 "expand(f(x));" }{TEXT 220 
+0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 17 "solve(f(x)=0, x);" }
+}{PARA 0 "> " 0 "" {MPLTEXT 1 0 23 "fsolve(f(x)=0, x=0..2);" }{TEXT 
+220 0 "" }}}{EXCHG {PARA 210 "" 0 "" {TEXT 208 0 "" }}{PARA 211 "" 0 "
+" {TEXT 208 9 "Graphing:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 22 
+"plot(f(x), x=-10..10);" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 24 "
+plot( 3*x + 2, x=-3..4);" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 220 5 "`The 
+" }{TEXT 213 1 " " }{TEXT 214 14 "trace feature:" }{TEXT 215 1 " " }
+{TEXT 216 4 "take" }{TEXT 220 1 " " }{TEXT 217 194 "the mouse and clic
+k on a graph with the arrow tip.  A pair of numbers will appear on the
+ upper left corner of your screen.  These numbers refer to the coordin
+ates of the point you just clicked. " }{MPLTEXT 1 0 0 "" }}}{EXCHG 
+{PARA 0 "" 0 "" {TEXT 220 32 "Plotting two functions together:" }}
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 29 "plot(\{x^3, x^(1/3)\}, x=0..1);" }}
+{PARA 13 "" 1 "" {TEXT 221 0 "" }}}{EXCHG {PARA 212 "" 0 "" {TEXT 208 
+26 "plotting with y controlled" }{TEXT 208 1 ":" }{MPLTEXT 1 0 0 "" }}
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 28 "plot(1/x, x=-5..5, y=-5..5);" }
+{TEXT 220 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 220 0 "" }}{PARA 213 ""
+ 0 "" {TEXT 208 14 "Loop Programs:" }{MPLTEXT 1 0 0 "" }}}{EXCHG 
+{PARA 0 "" 0 "" {TEXT 220 7 "a loop:" }}{PARA 0 "> " 0 "" {MPLTEXT 1 
+0 29 "for j from 1 to 10 do j^2 od;" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 220 27 "a loop with \+
+a few commands:" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 40 "for j from 1 to \+
+10 do j; k:=j^2; k; od; " }}}{EXCHG {PARA 0 "" 0 "" {TEXT 220 13 "a wh
+ile loop:" }{MPLTEXT 1 0 0 "" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 62 "for
+ x from 1  by  0.1  to  2 while (f(x) < 0) do  x, f(x)  od;" }}}
+{EXCHG {PARA 214 "" 0 "" {TEXT 208 1 " " }{MPLTEXT 1 0 0 "" }}{PARA 0 
+"" 0 "" {TEXT 218 27 "Limits and Differentiation:" }{TEXT 220 1 " " }
+{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 17 "limit(f
+(x), x=3);" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 8 "D(f)(x);" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 11 "m:=D(f)(a);" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 7 "m:='m';" }}}{EXCHG {PARA 0 "> " 0 ""
+ {MPLTEXT 1 0 11 "D(D(f))(x);" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 220 1 "
+ " }}{PARA 215 "" 0 "" {TEXT 208 15 "Error Messages:" }{MPLTEXT 1 0 0 
+"" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 4 "1/0;" }}{PARA 8 "" 1 ""
+ {TEXT 222 23 "Error, division by zero" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT 220 39 "        Solution:  Don't divide by 0.  " }{MPLTEXT 1 0 
+0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 24 "x:=2; plot(x^2, x=1.
+.3);" }}{PARA 11 "" 1 "" {TEXT 223 0 "" }}{PARA 8 "" 1 "" {TEXT 222 
+34 "Error, (in plot) invalid arguments" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT 220 40 "        Solution:  clear the variable x:" }}{PARA 0 "> "
+ 0 "" {MPLTEXT 1 0 26 "x:='x'; plot(x^2, x=1..3);" }}{PARA 13 "" 1 "" 
+{TEXT 221 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 20 "plot(h(x),
+ x=-3..3);" }}{PARA 8 "" 1 "" {TEXT 222 26 "Plotting error, empty plot
+" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 220 41 "         Solution: define th
+e function h." }{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT
+ 1 0 12 "f= x -> x^3;" }}{PARA 8 "" 1 "" {TEXT 222 15 "`->` unexpected
+" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 220 49 "         Solution: insert th
+e : in front of the =" }{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 9 "f(x)=x^3;" }}{PARA 11 "" 1 "" {TEXT 223 0 "" }}}
+{EXCHG {PARA 216 "" 0 "" {TEXT 208 24 "This doesn't look right." }}
+{PARA 0 "" 0 "" {TEXT 220 55 "          Solution: use the correct form
+at to define f." }{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 36 "f:=x -> 2(x-3); plot(f(x), x=0..10);" }}{PARA 11 "" 1
+ "" {TEXT 223 0 "" }}{PARA 13 "" 1 "" {TEXT 221 0 "" }}}{EXCHG {PARA 
+217 "" 0 "" {TEXT 208 24 "This doesn't look right." }}{PARA 0 "" 0 "" 
+{TEXT 220 70 "          Solution: use the correct multiplication symbo
+l to define f." }{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 10 "D(D(f)(x);" }}{PARA 8 "" 1 "" {TEXT 222 14 "`;` unexp
+ected" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 220 72 "          Solution:  be
+ careful to close all your parenthesis correctly." }}{PARA 0 "> " 0 ""
+ {MPLTEXT 1 0 10 "plot(x^3);" }}{PARA 8 "" 1 "" {TEXT 222 26 "Plotting
+ error, empty plot" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 220 39 "          \+
+ Solution: give the x values." }{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 ">
+ " 0 "" {MPLTEXT 1 0 21 "plot(1/x, x=-10..10);" }}{PARA 13 "" 1 "" 
+{TEXT 221 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 219 22 "This doesn't lo
+ok good" }{TEXT 220 1 "." }{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 ""
+ {TEXT 220 77 "           Solution: use the plot command that controls
+ the range of the y's:" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 32 "plot(1/x,
+ x=-10..10, y=-20..20);" }}{PARA 13 "" 1 "" {TEXT 221 0 "" }}}}
+{MARK "0 0 0" 0 }{VIEWOPTS 1 1 0 1 1 1803 1 1 1 1 }{PAGENUMBERS 0 1 2
+ 33 1 1 }

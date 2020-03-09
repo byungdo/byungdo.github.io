@@ -1,0 +1,239 @@
+{VERSION 5 0 "IBM INTEL NT" "5.0" }
+{USTYLETAB {CSTYLE "Maple Input" -1 0 "Courier" 0 1 255 0 0 1 0 1 0 0 
+1 0 0 0 0 1 }{CSTYLE "2D Math" -1 2 "Times" 0 1 0 0 0 0 0 0 2 0 0 0 0 
+0 0 1 }{CSTYLE "2D Output" 2 20 "" 0 1 0 0 255 1 0 0 0 0 0 0 0 0 0 1 }
+{CSTYLE "" -1 256 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 
+257 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 258 "" 0 1 0 0 
+0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 259 "" 0 1 0 0 0 0 0 1 0 0 0 0 
+0 0 0 1 }{CSTYLE "" -1 260 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }
+{CSTYLE "" -1 261 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 
+264 "" 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 1 }{CSTYLE "" -1 265 "" 0 1 0 0 
+0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 266 "" 0 1 0 0 0 0 1 0 0 0 0 0 
+0 0 0 1 }{CSTYLE "" -1 267 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 }
+{CSTYLE "" -1 268 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 
+269 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 270 "" 0 1 0 0 
+0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 271 "" 0 1 0 0 0 0 0 1 0 0 0 0 
+0 0 0 1 }{CSTYLE "" -1 272 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }
+{CSTYLE "" -1 273 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 
+274 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 275 "" 0 1 0 0 
+0 0 1 0 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 276 "" 0 1 0 0 0 0 1 0 0 0 0 0 
+0 0 0 1 }{PSTYLE "Normal" -1 0 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 0 
+0 0 0 0 0 0 0 1 }0 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "Maple Outpu
+t" 0 11 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 }3 3 0 
+-1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "" 0 256 1 {CSTYLE "" -1 -1 "" 0 1 
+0 0 0 0 0 1 0 0 0 0 0 0 0 1 }0 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE 
+"" 0 257 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }0 0 0 
+-1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "" 0 258 1 {CSTYLE "" -1 -1 "" 0 1 
+0 0 0 0 0 1 0 0 0 0 0 0 0 1 }0 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE 
+"" 0 259 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 }0 0 0 
+-1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "" 0 260 1 {CSTYLE "" -1 -1 "" 0 1 
+0 0 0 0 0 1 0 0 0 0 0 0 0 1 }0 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE 
+"" 0 261 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 }0 0 0 
+-1 -1 -1 0 0 0 0 0 0 -1 0 }}
+{SECT 0 {EXCHG {PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 256 "" 0 "" 
+{TEXT -1 60 "MAT 155              Project I                     Fall 2
+002" }}{PARA 257 "" 0 "" {TEXT -1 44 "                       Introduct
+ion to Maple" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }{MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT 256 17 "Saving this file:" }}{PARA 0 "" 0 "" {TEXT -1 54 "Before
+ you begin working you should save this file as " }{TEXT 259 14 "yourn
+ame1.mws " }{TEXT -1 76 "by selecting \"File\" on the far left of the \+
+top bar of Maple V and choosing \"" }{TEXT 257 7 "Save As" }{TEXT -1 
+171 "\".  A window will appear and you will fill in the file name.   Y
+ou should regularly save this file using the \"Save As\".   You should
+ also save the file with a second name " }{TEXT 260 15 "yourname1b.mws
+ " }{TEXT -1 20 "using the \"Save As\" " }{TEXT 261 26 "so that you ha
+ve a backup " }{TEXT -1 402 "in case your file is damaged.  The comput
+er will tell you that the file already exists and you will click on \"
+Yes\" that you agree to overwrite it.  If you just use the \"Save\" in
+stead of the \"Save As\" then the file will be saved with whichever na
+me is on the top bar of this window. Be careful to check that you only
+ have one file window open or you may have different files saving on t
+op of each other." }}}{PARA 0 "" 0 "" {TEXT -1 1 " " }}{EXCHG {PARA 0 
+"" 0 "" {TEXT -1 1 " " }{MPLTEXT 1 0 0 "" }{TEXT 258 38 "Put your name
+ on the top of this file " }{TEXT -1 111 "by clicking your mouse right
+ below the title and then typing your name.  Then return here using th
+e down arrow." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}}{EXCHG {PARA 0 "" 0 
+"" {TEXT -1 1 " " }}}{EXCHG {PARA 258 "" 0 "" {TEXT -1 21 "Problem 1. \+
+Operations" }{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 304 
+"Recall that multiplication, addition, division, etc are all operation
+s.  To use Maple as a calculator, you just type the formula you are in
+terested, then type a semicolin ( ; ) and then hit enter.  Maple obeys
+ the order of operations so it will do exponents first, then multimpli
+cation and division, then" }}{PARA 0 "" 0 "" {TEXT -1 95 "addition and
+ subtraction.  If you want it to do addition first, you must put it in
+ parenthesis." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" 
+{TEXT -1 61 "Click on the following lines and hit \"Enter\" to see exa
+mples:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 6 "1+2*3;" }{TEXT -1 
+0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 8 "(1+2)*3;" }{TEXT -1 
+0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 6 "6-4/2;" }{TEXT -1 0 "
+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 8 "(6-4)/2;" }{TEXT -1 0 "
+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 4 "3^2;" }{TEXT -1 0 "" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 6 "3*2^2;" }{TEXT -1 0 "" }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT -1 220 "Now type compute the following us
+ing maple yourself.  You must type your command on a line beginning wi
+th a [> symbol which is called a prompt.  Don't forget the ; or Maple \+
+will write : \"Warning, premature end of input\"." }}{PARA 0 "" 0 "" 
+{TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 18 "a)    (3+4) cubed." }
+{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT -1 5 "b)   " }{TEXT 264 7 " 1+15  " }}{PARA 0 "" 0 "" {TEXT -1 
+67 "        7+1                    (the answer is 16/8=2 be careful). \+
+ " }{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}
+}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT -1 72 "c)   5(3+2)                (don't forget the symbol for m
+ultimplication)" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 259 "" 0 "
+" {TEXT -1 140 "It is time to save your work.  Go to the top of the fi
+le using the up arrow key and review how to do this.  Remember you mus
+t save it twice." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}}{EXCHG {PARA 260 
+"" 0 "" {TEXT -1 30 "Problem 2:  Decimal Expansions" }{MPLTEXT 1 0 0 "
+" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 168 "Maple always tries to give a
+n exact answer but if there is no exact answer then it just displays a
+ fraction or a square root.  If you want a decimal expansion, use the \+
+" }{TEXT 269 6 "evalf " }{TEXT -1 41 "command. Hit enter to see how it
+ works:  " }{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 4 "1/2;" }{TEXT -1 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 11 
+"evalf(1/2);" }{TEXT -1 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+8 "2^(1/2);" }{TEXT -1 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 142 "Re
+call that the square root of 2 is irrational.  So the decimal expansio
+n continues forever but Maple only gives the first ten decimal places.
+" }{MPLTEXT 1 0 0 "" }}}{PARA 11 "" 1 "" {XPPMATH 20 "6#*$-%%sqrtG6#\"
+\"#\"\"\"" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 16 "evalf( 2^(1/2))
+;" }{TEXT -1 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 121 "Remember tha
+t there is no real square root of (-1).  There is an imaginary square \+
+root for (-1) which is called i or I.  " }{MPLTEXT 1 0 0 "" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 11 "(-1)^(1/2);" }{TEXT -1 0 "" }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT -1 87 "In Calculus I we do not use imagin
+ary or complex numbers.  So be careful if you get an " }{TEXT 273 1 "I
+" }{TEXT -1 14 " in an answer." }{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "
+" 0 "" {TEXT -1 39 "a)  Find the decimal expansion for 1/3." }}{PARA 
+0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 28 "b)  Find the cube root o
+f 8." }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 28 "c)  Find th
+e cube root of 2." }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 
+-1 1 " " }{MPLTEXT 1 0 0 "" }{TEXT 275 140 "It is time to save your wo
+rk.  Go to the top of the file using the up arrow key and review how t
+o do this.  Remember you must save it twice." }}}{EXCHG {PARA 0 "" 0 "
+" {TEXT 271 21 "Problem 3:  Functions" }}{PARA 0 "" 0 "" {TEXT -1 155 
+"A function is a mapping from a domain to a range.  For example f(x)=x
+^2 maps real numbers to real numbers bigger than or equal to 0.  Mathe
+maticians write:" }}{PARA 0 "" 0 "" {TEXT -1 71 "f: (-infinity, infini
+ty) -> [0, infinity)     and    f : x   ->  x^2   " }}{PARA 0 "" 0 "" 
+{TEXT -1 242 "So f takes -1 to 1, -2 to 4, 3 to 9 and so on.  To defin
+e a function in maple we use a similar notation.  To make the right ar
+row we use a dash (near the letter p on the keyboard) and a greater th
+an sign (>).  Hit enter on the following line:" }}{PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 13 "f:= x -> x^2;" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 
+100 "Note that there is an equals sign in Maple's notation!  In Maple \+
+:= is always used to define things." }}{PARA 0 "" 0 "" {TEXT -1 38 "No
+w to evaluate a function, you write:" }{MPLTEXT 1 0 0 "" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 5 "f(5);" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 6 "f(-3);" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 44 "a)  Def
+ine a function g which maps x to x/3." }{MPLTEXT 1 0 0 "" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 28 "b) Evaluate g
+ at 7 and at 8." }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 94 "Maple has alr
+eady defined some functions.  For example sqrt takes a number to its s
+quare root:" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 8 "sqrt(4);" }}}{EXCHG 
+{PARA 0 "" 0 "" {TEXT -1 54 "c)  Ask Maple to find the square roots of
+ 9 and of -9." }{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT -1 96 "d)  In Calculus we often create new functions from old fu
+nctions.  For example, we might want to" }}{PARA 0 "" 0 "" {TEXT -1 
+174 "take a number and first map it using f and then map it using g.  \+
+That is we take x and square it using f to get x^2, and then take x^2 \+
+and act g on it to get g(x^2) which is:" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 7 "g(x^2);" }{TEXT -1 0 "" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT -1 40 "This new function is written as g(f(x))." }}{PARA 0 "> " 
+0 "" {MPLTEXT 1 0 8 "g(f(x));" }{TEXT -1 0 "" }}}{EXCHG {PARA 0 "" 0 "
+" {TEXT -1 120 "If you want to compute g first and then f you use f(g(
+x)).  Compute this by hand and then check your answer using Maple." }}
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 8 "f(g(x));" }{TEXT -1 0 "" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 
+265 24 "Problem 4:  Trigonometry" }{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 
+0 "" 0 "" {TEXT -1 153 "Recall the trig functions sine and cosine.  If
+ you do not already know their definitions you should not be taking ca
+lculus!  Speak to your teacher today!" }}{PARA 0 "" 0 "" {TEXT -1 0 "
+" }}{PARA 0 "" 0 "" {TEXT -1 94 "You should recall that sin (30 degree
+s)=1/2 , sin (60 degrees)= sqrt(3)/2,  sin (90 degrees)=1" }}{PARA 0 "
+" 0 "" {TEXT -1 8 "however " }{TEXT 266 50 "in calculus we do not meas
+ure angles using degrees" }{TEXT -1 9 "!!!      " }}}{EXCHG {PARA 0 ">
+ " 0 "" {MPLTEXT 1 0 8 "sin(30);" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 15 "evalf(sin(30));" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 
+197 "As you see by hitting the above lines that Maple does not compute
+ sin(30) and that even the decimal expansion of sin(30) has nothing to
+ do with .5000000000, in fact it is negative.  This is because" }}
+{PARA 0 "" 0 "" {TEXT -1 12 "in calculus " }{TEXT 267 33 "we use radia
+ns to measure angles." }{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT -1 289 "Ask your teacher to explain radians to you if you do not
+ know what they are.  There is a very nice picture with a unit circle \+
+that can be drawn on the board.  This picture also helps you remember \+
+when sine and cosine are positive and negative.  You may also read App
+endix A.3 in the text.." }}}{PARA 11 "" 1 "" {TEXT -1 0 "" }}{EXCHG 
+{PARA 0 "" 0 "" {TEXT -1 190 "For a quick conversion from radians to d
+egrees just remember that the circumference of a circle of radius 1 in
+  2Pi and the degrees to go all the way around is 360.  So 360 degrees
+= 2Pi.  So" }}{PARA 0 "" 0 "" {TEXT -1 36 "90 degrees= 90 (2Pi/360) an
+d we get:" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 14 "90*(2*Pi/360);" }
+{TEXT -1 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 66 "Which is Pi/2 rad
+ians.  So sin (90 degrees)=sin(Pi/2) and we type:" }}}{EXCHG {PARA 0 "
+> " 0 "" {MPLTEXT 1 0 10 "sin(Pi/2);" }{TEXT -1 0 "" }}}{EXCHG {PARA 
+0 "" 0 "" {TEXT -1 69 "a)  Compute the radians for 60 degrees and then
+ find sin(60 degrees)." }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" 
+}}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 
+0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 38 "b)  Comp
+ute the cosine of 180 degrees." }{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "
+> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 
+"" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 
+0 "" {TEXT -1 72 "c)  Find the tangent of Pi/4.  Compare it with sin(P
+i/4) and cos(Pi/4). " }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}
+}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }
+{TEXT -1 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 
+-1 33 "d) Notice that cos(Pi/2) is 0 so " }{TEXT 268 26 "tan(Pi/2) is \+
+not defined. " }{TEXT -1 26 " See what Maple gives you:" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT -1 15 "It should say \"" }{TEXT 274 40 "E
+rror, (in tan) singularity encountered." }{TEXT -1 126 "\"   Maple alw
+ays tries to explain what is wrong with your command if it asks it to \+
+do something impossible or it is not clear." }}}{EXCHG {PARA 0 "" 0 "
+" {TEXT -1 1 " " }}{PARA 261 "" 0 "" {TEXT -1 64 "It is time to save y
+our work.   Remember you must save it twice." }{MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT 270 13 "E
+xploration: " }{TEXT -1 531 "Every project ends with exploration.  Bef
+ore starting the exploration you should make sure that you have comple
+ted all of the problems.  Once you have completed them you can make up
+ similar problems or do recommended exploration problems.  If you miss
+ a lab, you must catch up on the previous labs problems to learn all t
+he commands and ideas that you missed.  The exploration need not have \+
+been completed to continue with the next project. Your professor may, \+
+however, require you to complete the exploration for grading purposes.
+" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT 272 
+33 "Recommended exploration problems:" }}{PARA 0 "" 0 "" {TEXT -1 91 "
+To do this work you need only hit enter at the bottom of the lab to cr
+eate more prompts [>." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 
+"" {TEXT -1 252 "A) Practice using the unit circle to find sin(-Pi), s
+in(-Pi/2), sin(0), sin(Pi/2), sin(Pi), sin(3Pi/2), sin(2Pi),  and chec
+k your answers with Maple.  Then use the unit circle to figure out whe
+re tangent is undefined and check your answer with Maple.  " }}{PARA 
+0 "" 0 "" {TEXT -1 1 " " }}{PARA 0 "" 0 "" {TEXT -1 97 "B) Define a fu
+nction f(x)=1-x^2.  Use Maple to study f(sin(x)).  Then define a funct
+ion g(x)=x^2." }}{PARA 0 "" 0 "" {TEXT -1 66 "Use Maple to study g(cos
+(x)).  Compare f(sin(x)) with g(cos(x)).  " }{MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT -1 1 " " }{TEXT 276 53 "Remember to save \+
+your exploration problems regularly." }{MPLTEXT 1 0 0 "" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 0 "" }}}}{MARK "4 0 3" 111 }{VIEWOPTS 1 1 0 1 1 1803 1 
+1 1 1 }{PAGENUMBERS 0 1 2 33 1 1 }

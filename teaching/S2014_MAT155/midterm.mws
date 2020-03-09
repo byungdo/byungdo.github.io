@@ -1,0 +1,73 @@
+{VERSION 6 0 "IBM INTEL NT" "6.0" }
+{USTYLETAB {CSTYLE "Maple Input" -1 0 "Courier" 0 1 255 0 0 1 0 1 0 0 
+1 0 0 0 0 1 }{CSTYLE "" -1 256 "" 1 18 0 0 0 0 0 1 0 0 0 0 0 0 0 0 }
+{CSTYLE "" -1 257 "" 1 14 0 0 0 0 0 0 0 0 0 0 0 0 0 0 }{PSTYLE "Normal
+" -1 0 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 1 1 1 }1 
+1 0 0 0 0 1 0 1 0 2 2 0 1 }{PSTYLE "Normal" -1 256 1 {CSTYLE "" -1 -1 
+"Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 1 1 1 }3 1 0 0 0 0 1 0 1 0 2 2 0 1 
+}}
+{SECT 0 {EXCHG {PARA 256 "" 0 "" {TEXT 256 14 "Midterm Exam I" }}
+{PARA 256 "" 0 "" {TEXT 257 75 "Spring 2014, MAT155 Section B401[19441
+]\nMarch 5th, 2014. 11:00AM--12:40PM.\n" }}{PARA 0 "" 0 "" {TEXT -1 
+490 "Instructions:  You can use only MAPLE program and a web browser(o
+nly for the purpose of submitting your exam solution to the instructor
+). You may not use any other programs other than these two. You can lo
+ok up your MAPLE source files, but otherwise this exam is closed-book,
+ closed-note, and you may not use any electronic device in this exam e
+xcept your PC. You are not allowed to talk to other students. Type all
+ details explicitly. All solutions should be obtained by using MAPLE c
+odes." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT -1 66 "Problem 1. Define a function f(x)=x^3 and calculate the f
+ollowing." }}{PARA 0 "" 0 "" {TEXT -1 50 "(1) (sin 60 degree)^3 and (t
+an(Pi/4))^3 (5 points)" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" 
+}}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "
+" {TEXT -1 79 "(2) g(f(x)) and f(g(x)) when g(x) is defined by the cub
+ic root of x. (5 points)" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "
+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 
+0 "" {TEXT -1 98 "Problem 2. Plot the following functions so that your
+ graph will include all zeros of the function:" }}{PARA 0 "" 0 "" 
+{TEXT -1 26 "(1) f(x)=x^3- x (5 points)" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT -1 40 "(2) g(x)=(x-1)(x-2)(x-3)(x-4) (5 p
+oints)" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 
+0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 61 "P
+roblem 3. Plot the following functions for the given values:" }}{PARA 
+0 "" 0 "" {TEXT -1 51 "(1) f(x)=sin(x) for x is in [-2*Pi,2*Pi] (5 poi
+nts)" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 
+"> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 47 "(2)
+ g(x)=tan(x) for x is in [-Pi,Pi] (5 points)" }}}{EXCHG {PARA 0 "> " 
+0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }
+}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 100 "Problem 4. Let f(x)=x^2.  Then \+
+graph f(x+2), and f(x)+2 and compare them. (10 points; 5 points each)
+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> \+
+" 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 112 "Probl
+em 5. Define a function f(x)=cos(x)-x, plot f(x), and solve f(x)=0. (H
+int: Use fsolve command.) (10 points)" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT -1 93 "Problem 6. Let f(x)= sin(x)-x^2+3 \+
+and solve for f(x) less than or equal to zero.  (10 points)" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 131 "Problem 7.
+ Find the inverse function of f(x)=(x+2)/x. Use MAPLE to graph both f \+
+and f^\{-1\} in the same viewing window.  (10 points)" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 145 "Problem 8. (
+1) Graph sin(x) on [-10,10].  Choose a restricted domain for sin(x) th
+at includes x=0 and passes the horizontal line test. (5 Points)" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 108 "(2) Draw t
+he graph of arcsin(x) and discuss the relationship with the graph obta
+ined in (1) above.(5 Points)" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 
+0 "" 0 "" {TEXT -1 139 "Problem 9. (1) For f(x)=(x^4+14*x^3+71*x^2+154
+*x+120)/(x^3+6*x^2+11*x+6), f(x) has a vertical asymptote x=k. Find th
+e constant k.(5 points)" }}{PARA 0 "" 0 "" {TEXT -1 92 "(2) Evaluate l
+imit of f(x) as x goes to k where k is the constant obtained in (1) (5
+ points)" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 
+-1 96 "Problem 10. (1) Evaluate limits of f(x)=(1-tan(x))/(sin(x)-cos(
+x)) as x goes to Pi/4. (5 Points)" }}{PARA 0 "" 0 "" {TEXT -1 77 "(2) \+
+Evaluate limits of f(x)=(1-exp(-x))/(exp(x)-1) as x goes to 0. (5 Poin
+ts)" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "
+> " 0 "" {MPLTEXT 1 0 0 "" }}}}{MARK "34 0 0" 97 }{VIEWOPTS 1 1 0 1 1 
+1803 1 1 1 1 }{PAGENUMBERS 0 1 2 33 1 1 }

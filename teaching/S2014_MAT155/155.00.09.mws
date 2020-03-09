@@ -1,0 +1,353 @@
+{VERSION 6 0 "Windows 7" "6.0" }
+{USTYLETAB {PSTYLE "Ordered List 1" -1 200 1 {CSTYLE "" -1 -1 "Times"
+ 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 0 2 0 2 2 -1 1 }
+{PSTYLE "Ordered List 2" -1 201 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 
+1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 36 2 0 2 2 -1 1 }{PSTYLE "Ordered
+ List 3" -1 202 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 
+0 0 1 }1 1 0 0 3 3 2 72 2 0 2 2 -1 1 }{PSTYLE "Ordered List 4" -1 203 
+1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3
+ 3 2 108 2 0 2 2 -1 1 }{PSTYLE "Ordered List 5" -1 204 1 {CSTYLE "" -1
+ -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 144 2 0 2 
+2 -1 1 }{PSTYLE "Annotation Title" -1 205 1 {CSTYLE "" -1 -1 "Times" 1
+ 18 0 0 0 1 2 1 2 2 2 2 1 0 0 1 }3 1 0 0 12 12 2 0 2 0 2 2 -1 1 }
+{PSTYLE "Fixed Width" -1 17 1 {CSTYLE "" -1 -1 "Courier" 1 10 0 0 0 1 
+2 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Normal256"
+ -1 206 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 1 0 0 1 }1
+ 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Normal268" -1 207 1 {CSTYLE "" 
+-1 -1 "Times" 1 24 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 
+2 -1 1 }{PSTYLE "Text Output" -1 2 1 {CSTYLE "" -1 -1 "Courier" 1 10 0
+ 0 255 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "N
+ormal257" -1 208 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 1
+ 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Normal267" -1 209 1 
+{CSTYLE "" -1 -1 "Times" 1 24 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 0 0
+ 2 0 2 0 2 2 -1 1 }{PSTYLE "Normal258" -1 210 1 {CSTYLE "" -1 -1 "Time
+s" 1 12 0 0 0 1 2 1 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }
+{PSTYLE "Normal259" -1 211 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 1
+ 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Normal269" -1
+ 212 1 {CSTYLE "" -1 -1 "Times" 1 24 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 
+0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Normal264" -1 213 1 {CSTYLE "" -1 
+-1 "Times" 1 24 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 
+-1 1 }{PSTYLE "Normal263" -1 214 1 {CSTYLE "" -1 -1 "Times" 1 24 0 0 0
+ 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Normal2
+66" -1 215 1 {CSTYLE "" -1 -1 "Times" 1 24 0 0 0 1 2 2 2 2 2 2 1 0 0 1
+ }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Normal265" -1 216 1 {CSTYLE "
+" -1 -1 "Times" 1 24 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 
+2 2 -1 1 }{PSTYLE "Normal260" -1 217 1 {CSTYLE "" -1 -1 "Times" 1 24 0
+ 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Nor
+mal262" -1 218 1 {CSTYLE "" -1 -1 "Times" 1 24 0 0 0 1 2 2 2 2 2 2 1 0
+ 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Normal261" -1 219 1 
+{CSTYLE "" -1 -1 "Times" 1 24 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 0 0
+ 2 0 2 0 2 2 -1 1 }{PSTYLE "Dash Item" -1 16 1 {CSTYLE "" -1 -1 "Times
+" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 0 2 0 2 2 -1 1 }
+{PSTYLE "HyperlinkError" -1 220 1 {CSTYLE "" -1 -1 "Courier New" 1 12 
+255 0 255 1 2 2 1 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE
+ "Bullet Item" -1 15 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2
+ 2 1 0 0 1 }1 1 0 0 3 3 2 0 2 0 2 2 -1 1 }{PSTYLE "Normal276" -1 221 1
+ {CSTYLE "" -1 -1 "Times" 1 24 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 0 
+0 2 0 2 0 2 2 -1 1 }{PSTYLE "Normal275" -1 222 1 {CSTYLE "" -1 -1 "Tim
+es" 1 24 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }
+{PSTYLE "Normal274" -1 223 1 {CSTYLE "" -1 -1 "Times" 1 24 0 0 0 1 2 2
+ 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Normal273" -1
+ 224 1 {CSTYLE "" -1 -1 "Times" 1 24 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 
+0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Normal272" -1 225 1 {CSTYLE "" -1 
+-1 "Times" 1 24 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 
+-1 1 }{PSTYLE "Normal271" -1 226 1 {CSTYLE "" -1 -1 "Times" 1 24 0 0 0
+ 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Normal2
+70" -1 227 1 {CSTYLE "" -1 -1 "Times" 1 24 0 0 0 1 2 2 2 2 2 2 1 0 0 1
+ }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Author" -1 19 1 {CSTYLE "" -1
+ -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 8 8 2 0 2 0 2 2 
+-1 1 }{PSTYLE "Warning" -1 7 1 {CSTYLE "" -1 -1 "Courier" 1 10 0 0 255
+ 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Maple P
+lot" -1 13 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1
+ }3 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Line Printed Output" -1 6 1 
+{CSTYLE "" -1 -1 "Courier" 1 10 0 0 255 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 0
+ 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Diagnostic" -1 9 1 {CSTYLE "" -1 -1 "C
+ourier" 1 10 64 128 64 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 
+-1 1 }{PSTYLE "Help" -1 10 1 {CSTYLE "" -1 -1 "Courier" 1 9 0 0 255 1 
+2 2 2 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Normal" -1
+ 0 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 
+0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Maple Output" -1 11 1 {CSTYLE "" -1 
+-1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 0 2 2 
+-1 1 }{PSTYLE "Title" -1 18 1 {CSTYLE "" -1 -1 "Times" 1 18 0 0 0 1 2 
+1 1 2 2 2 1 0 0 1 }3 1 0 0 12 12 2 0 2 0 2 2 -1 1 }{PSTYLE "Error" -1 
+8 1 {CSTYLE "" -1 -1 "Courier" 1 10 255 0 255 1 2 2 2 2 2 1 1 0 0 1 }1
+ 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Heading 1" -1 3 1 {CSTYLE "" -1 
+-1 "Times" 1 18 0 0 0 1 2 1 2 2 2 2 1 0 0 1 }1 1 0 0 8 4 2 0 2 0 2 2 
+-1 1 }{PSTYLE "Heading 4" -1 20 1 {CSTYLE "" -1 -1 "Times" 1 10 0 0 0 
+1 1 1 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Heading \+
+3" -1 5 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 1 1 2 2 2 2 1 0 0 1 }1
+ 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "HyperlinkWarning" -1 228 1 
+{CSTYLE "" -1 -1 "Courier New" 1 12 0 0 255 1 2 2 1 2 2 1 1 0 0 1 }1 1
+ 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Heading 2" -1 4 1 {CSTYLE "" -1 -1
+ "Times" 1 14 0 0 0 1 2 1 2 2 2 2 1 0 0 1 }1 1 0 0 8 2 2 0 2 0 2 2 -1 
+1 }{PSTYLE "Left Justified Maple Output" -1 12 1 {CSTYLE "" -1 -1 "Tim
+es" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }
+{PSTYLE "List Item" -1 14 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 
+2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 0 2 0 2 2 -1 1 }{CSTYLE "Help Maple Nam
+e" -1 35 "Times" 1 12 104 64 92 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Help M
+enus" -1 36 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Help It
+alic" -1 42 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help It
+alic Bold" -1 40 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "De
+fault" -1 38 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Maple \+
+Input" -1 0 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 0 0 0 1 }{CSTYLE "2D \+
+Output" -1 20 "Times" 1 12 0 0 255 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D \+
+Math Small" -1 7 "Times" 1 1 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Out
+put Labels" -1 29 "Times" 1 8 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Ma
+ple Input Placeholder" -1 200 "Courier New" 1 12 200 0 200 1 2 1 2 2 1
+ 2 0 0 0 1 }{CSTYLE "Code" -1 201 "Courier New" 1 12 255 0 0 1 2 2 2 2
+ 2 2 0 0 0 1 }{CSTYLE "2D Math Italic Small" -1 202 "Times" 1 1 0 0 0 
+1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "Copyright" -1 34 "Times" 1 10 0 0 0 1 
+2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Underlined" -1 44 "Times" 1 12 0 0 
+0 1 2 2 1 2 2 2 0 0 0 1 }{CSTYLE "2D Input" -1 19 "Times" 1 12 255 0 0
+ 1 2 2 2 2 1 2 0 0 0 1 }{CSTYLE "Header and Footer" -1 203 "Times" 1 
+10 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Notes" -1 37 "Times" 1 
+12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Equation Label" -1 204 "Times
+" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "LaTeX" -1 32 "Times" 1 12
+ 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Dictionary Hyperlink" -1 45 "Ti
+mes" 1 12 147 0 15 1 2 2 1 2 2 2 0 0 0 1 }{CSTYLE "Atomic Variable" -1
+ 205 "Times" 1 12 175 0 175 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "Popup" -1 
+31 "Times" 1 12 0 128 128 1 1 2 1 2 2 2 0 0 0 1 }{CSTYLE "Help Fixed" 
+-1 23 "Courier" 1 10 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Annotation \+
+Text" -1 206 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Mat
+h Bold" -1 5 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "2D Mat
+h Italic" -1 3 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "Plot
+ Text" -1 28 "Times" 1 8 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help No
+rmal" -1 30 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help No
+nterminal" -1 24 "Courier" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "
+Help Heading" -1 26 "Times" 1 14 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE 
+"Help Variable" -1 25 "Courier" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }
+{CSTYLE "Help Underlined Italic" -1 43 "Times" 1 12 0 0 0 1 1 2 1 2 2 
+2 0 0 0 1 }{CSTYLE "2D Math Bold Small" -1 10 "Times" 1 1 0 0 0 1 2 1 
+2 2 2 2 0 0 0 1 }{CSTYLE "Page Number" -1 33 "Times" 1 12 0 0 0 1 2 2 
+2 2 2 2 0 0 0 1 }{CSTYLE "Plot Title" -1 27 "Times" 1 10 0 0 0 1 2 1 2
+ 2 2 2 0 0 0 1 }{CSTYLE "Help Emphasized" -1 22 "Times" 1 12 0 0 0 1 1
+ 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Symbol 2" -1 16 "Times" 1 12 0 0 
+0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Maple Comment" -1 21 "Courier" 1 12 
+0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Caption Reference" -1 207 "Times
+" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "2D Inert Output" -1 208 "
+Times" 1 12 144 144 144 1 2 2 2 2 1 2 0 0 0 1 }{CSTYLE "2D Comment" -1
+ 18 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Underlined
+ Bold" -1 41 "Times" 1 12 0 0 0 1 1 1 2 2 2 2 0 0 0 1 }{CSTYLE "Hyperl
+ink" -1 17 "Times" 1 12 0 128 128 1 2 2 1 2 2 2 0 0 0 1 }{CSTYLE "Prom
+pt" -1 1 "Courier" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math"
+ -1 2 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Text" -1 209 
+"Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Bold" -1 39 "T
+imes" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Caption Text" -1 210 
+"Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 211 "Times" 1 
+12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 212 "Times" 1 12 0 0 0 1
+ 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 213 "Times" 1 12 0 0 0 1 2 1 2 2 2
+ 2 0 0 0 1 }{CSTYLE "" -1 214 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1
+ }{CSTYLE "" -1 215 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE 
+"" -1 216 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 217 
+"Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 218 "Times" 1 
+12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 229 1 {CSTYLE "" -1 -1 "
+Courier" 1 24 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 
+-1 1 }{PSTYLE "" -1 230 1 {CSTYLE "" -1 -1 "Courier" 1 24 255 0 0 1 2 
+1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 231 1 
+{CSTYLE "" -1 -1 "Courier" 1 24 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0
+ 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 232 1 {CSTYLE "" -1 -1 "Courier" 
+1 24 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }
+{PSTYLE "" -1 233 1 {CSTYLE "" -1 -1 "Courier" 1 24 255 0 0 1 2 1 2 2 
+1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 234 1 {CSTYLE
+ "" -1 -1 "Courier" 1 24 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 
+0 2 0 2 2 -1 1 }{PSTYLE "" -1 235 1 {CSTYLE "" -1 -1 "Courier" 1 24 
+255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "
+" -1 236 1 {CSTYLE "" -1 -1 "Courier" 1 24 255 0 0 1 2 1 2 2 1 2 1 0 0
+ 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 237 1 {CSTYLE "" -1 -1
+ "Courier" 1 24 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2
+ -1 1 }{PSTYLE "" -1 238 1 {CSTYLE "" -1 -1 "Courier" 1 24 255 0 0 1 2
+ 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 239 1 
+{CSTYLE "" -1 -1 "Courier" 1 24 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0
+ 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 240 1 {CSTYLE "" -1 -1 "Courier" 
+1 24 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }
+{PSTYLE "" -1 241 1 {CSTYLE "" -1 -1 "Courier" 1 24 255 0 0 1 2 1 2 2 
+1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 242 1 {CSTYLE
+ "" -1 -1 "Courier" 1 24 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 
+0 2 0 2 2 -1 1 }{PSTYLE "" -1 243 1 {CSTYLE "" -1 -1 "Courier" 1 24 
+255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "
+" -1 244 1 {CSTYLE "" -1 -1 "Courier" 1 24 255 0 0 1 2 1 2 2 1 2 1 0 0
+ 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 245 1 {CSTYLE "" -1 -1
+ "Courier" 1 24 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2
+ -1 1 }{CSTYLE "" -1 219 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }
+{PSTYLE "" -1 246 1 {CSTYLE "" -1 -1 "Courier" 1 24 255 0 0 1 2 1 2 2 
+1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 247 1 {CSTYLE
+ "" -1 -1 "Courier" 1 24 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 
+0 2 0 2 2 -1 1 }{PSTYLE "" -1 248 1 {CSTYLE "" -1 -1 "Courier" 1 24 
+255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "
+" -1 249 1 {CSTYLE "" -1 -1 "Courier" 1 24 255 0 0 1 2 1 2 2 1 2 1 0 0
+ 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 250 1 {CSTYLE "" -1 -1
+ "Courier" 1 24 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2
+ -1 1 }{PSTYLE "" -1 251 1 {CSTYLE "" -1 -1 "Courier" 1 24 255 0 0 1 2
+ 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 252 1 
+{CSTYLE "" -1 -1 "Courier" 1 24 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0
+ 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 253 1 {CSTYLE "" -1 -1 "Courier" 
+1 24 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }
+{PSTYLE "" -1 254 1 {CSTYLE "" -1 -1 "Courier" 1 24 255 0 0 1 2 1 2 2 
+1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 255 1 {CSTYLE
+ "" -1 -1 "Courier" 1 24 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 
+0 2 0 2 2 -1 1 }{PSTYLE "" -1 256 1 {CSTYLE "" -1 -1 "Courier" 1 24 
+255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "
+" -1 257 1 {CSTYLE "" -1 -1 "Courier" 1 24 255 0 0 1 2 1 2 2 1 2 1 0 0
+ 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 258 1 {CSTYLE "" -1 -1
+ "Courier" 1 24 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2
+ -1 1 }{PSTYLE "" -1 259 1 {CSTYLE "" -1 -1 "Courier" 1 24 255 0 0 1 2
+ 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 260 1 
+{CSTYLE "" -1 -1 "Courier" 1 24 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0
+ 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 261 1 {CSTYLE "" -1 -1 "Courier" 
+1 24 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }
+{PSTYLE "" -1 262 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 
+1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 263 1 {CSTYLE "" 
+-1 -1 "Courier" 1 24 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 
+0 2 2 -1 1 }{PSTYLE "" -1 264 1 {CSTYLE "" -1 -1 "Courier" 1 24 255 0 
+0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 
+265 1 {CSTYLE "" -1 -1 "Courier" 1 24 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1
+ 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 266 1 {CSTYLE "" -1 -1 "Cou
+rier" 1 24 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1
+ }{PSTYLE "" -1 267 1 {CSTYLE "" -1 -1 "Courier" 1 24 255 0 0 1 2 1 2 
+2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 268 1 
+{CSTYLE "" -1 -1 "Courier" 1 24 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0
+ 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 269 1 {CSTYLE "" -1 -1 "Courier" 
+1 24 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }
+{PSTYLE "" -1 270 1 {CSTYLE "" -1 -1 "Courier" 1 24 255 0 0 1 2 1 2 2 
+1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 271 1 {CSTYLE
+ "" -1 -1 "Courier" 1 24 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 
+0 2 0 2 2 -1 1 }{PSTYLE "" -1 272 1 {CSTYLE "" -1 -1 "Courier" 1 24 
+255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "
+" -1 273 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 1 0 0 1 }
+1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 274 1 {CSTYLE "" -1 -1 "Co
+urier" 1 24 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 
+1 }{PSTYLE "" -1 275 1 {CSTYLE "" -1 -1 "Courier" 1 24 255 0 0 1 2 1 2
+ 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 276 1 
+{CSTYLE "" -1 -1 "Courier" 1 24 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0
+ 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 277 1 {CSTYLE "" -1 -1 "Courier" 
+1 24 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }
+{PSTYLE "" -1 278 1 {CSTYLE "" -1 -1 "Courier" 1 24 255 0 0 1 2 1 2 2 
+1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 279 1 {CSTYLE
+ "" -1 -1 "Courier" 1 24 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 
+0 2 0 2 2 -1 1 }{PSTYLE "" -1 280 1 {CSTYLE "" -1 -1 "Courier" 1 24 
+255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "
+" -1 281 1 {CSTYLE "" -1 -1 "Courier" 1 24 255 0 0 1 2 1 2 2 1 2 1 0 0
+ 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 282 1 {CSTYLE "" -1 -1
+ "Courier" 1 24 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2
+ -1 1 }{PSTYLE "" -1 283 1 {CSTYLE "" -1 -1 "Courier" 1 24 255 0 0 1 2
+ 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 220 "T
+imes" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 284 1 {CSTYLE ""
+ -1 -1 "Courier" 1 24 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2
+ 0 2 2 -1 1 }{PSTYLE "" -1 285 1 {CSTYLE "" -1 -1 "Courier" 1 24 255 0
+ 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 
+286 1 {CSTYLE "" -1 -1 "Courier" 1 24 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1
+ 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 287 1 {CSTYLE "" -1 -1 "Cou
+rier" 1 24 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1
+ }{PSTYLE "" -1 288 1 {CSTYLE "" -1 -1 "Courier" 1 24 255 0 0 1 2 1 2 
+2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 289 1 
+{CSTYLE "" -1 -1 "Courier" 1 24 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0
+ 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 290 1 {CSTYLE "" -1 -1 "Courier" 
+1 24 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }
+{PSTYLE "" -1 291 1 {CSTYLE "" -1 -1 "Courier" 1 24 255 0 0 1 2 1 2 2 
+1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 292 1 {CSTYLE
+ "" -1 -1 "Courier" 1 24 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 
+0 2 0 2 2 -1 1 }{PSTYLE "" -1 293 1 {CSTYLE "" -1 -1 "Courier" 1 24 
+255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }}
+{SECT 0 {EXCHG {PARA 0 "" 0 "" {TEXT 221 0 "" }}{PARA 206 "" 0 "" 
+{TEXT 222 69 "MAT 155                 Project IX                      \+
+  Spring 2014" }}{PARA 0 "" 0 "" {TEXT 211 69 "                       \+
+  Increasing and Decreasing                   " }{TEXT 221 5 "     " }
+}{PARA 0 "" 0 "" {TEXT 221 0 "" }}}{PARA 0 "" 0 "" {TEXT 221 1 " " }
+{MPLTEXT 1 0 0 "" }}{EXCHG {PARA 0 "" 0 "" {TEXT 221 129 "Your work sh
+ould be done neatly in the same format as previous labs and saved regu
+larly as yourname9.mws and as yourname9b.mws.  " }}{PARA 0 "" 0 "" 
+{TEXT 221 0 "" }}{PARA 0 "" 0 "" {TEXT 212 38 "You should write commen
+ts as you work." }{TEXT 221 199 "  To do so just backspace in front of
+ the prompt > and type in the comments.  They should appear in black n
+ot in red.   When you finish the lab be sure to go over your comments \+
+and check the grammar." }}{PARA 0 "" 0 "" {TEXT 221 0 "" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 
+213 10 "Problem 1:" }{TEXT 221 2 "  " }{TEXT 214 32 "Local Maxima and \+
+Critical Points" }}{PARA 0 "" 0 "" {TEXT 215 3 "a) " }{TEXT 221 45 "De
+fine a function f which takes x to x^3-x.  " }}{PARA 0 "" 0 "" {TEXT 
+216 3 "b) " }{TEXT 221 398 "Graph it from -1.5 to 1.5.  Write a commen
+t explaining where the function increases and where it decreases. Try \+
+to estimate where it switches from increasing to decreasing.  Such poi
+nts are called local maxima.  What is the slope at the points where it
+ switches?  Now check where it switches from decreasing to increasing.
+  These are the local minima.  What is the slope of f at the local min
+ima?  " }}{PARA 0 "" 0 "" {TEXT 217 2 "c)" }{TEXT 221 88 " Find its de
+rivative using the D command and graph the derivative from -1.5 to 1.5
+ using" }}{PARA 0 "" 0 "" {TEXT 221 29 "> plot(D(f)(x), x=-1.5..1.5);"
+ }}{PARA 0 "" 0 "" {TEXT 218 2 "d)" }{TEXT 221 326 " Write a comment d
+iscussing where the derivative is positive and where it is negative. U
+se solve to find out where the derivative is 0.  A points where the de
+rivative is zero is called a critical point.  How are the critical poi
+nts you've found related to the graph of f ?  How are they related to \+
+the local minima and maxima?" }}}{EXCHG {PARA 229 "> " 0 "" {MPLTEXT 
+1 0 0 "" }}}{EXCHG {PARA 230 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG 
+{PARA 231 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 232 "> " 0 "" 
+{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 233 "> " 0 "" {MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 234 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 235 "> " 
+0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 236 "> " 0 "" {MPLTEXT 1 0 0 ""
+ }}}{EXCHG {PARA 237 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 238 "
+> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 239 "> " 0 "" {MPLTEXT 1 0 
+0 "" }}}{EXCHG {PARA 240 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 
+241 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 242 "> " 0 "" {MPLTEXT
+ 1 0 0 "" }}}{EXCHG {PARA 243 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG 
+{PARA 244 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 245 "> " 0 "" 
+{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 208 "" 0 "" {TEXT 223 0 "" }}{PARA 
+210 "" 0 "" {TEXT 224 11 "Problem 2: " }{TEXT 219 26 "Don't forget to \+
+restart.  " }{TEXT 224 2 "  " }}{PARA 211 "" 0 "" {TEXT 209 78 "Repeat
+ problem 1 with f(x)= 3x-exp(3x).  You may need to use fsolve in step \+
+d." }{TEXT 225 0 "" }}{PARA 0 "" 0 "" {TEXT 221 0 "" }{MPLTEXT 1 0 0 "
+" }}}{EXCHG {PARA 246 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 247 
+"> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 248 "> " 0 "" {MPLTEXT 1 
+0 0 "" }}}{EXCHG {PARA 249 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG 
+{PARA 250 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 251 "> " 0 "" 
+{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 252 "> " 0 "" {MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 253 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 254 "> " 
+0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 255 "> " 0 "" {MPLTEXT 1 0 0 ""
+ }}}{EXCHG {PARA 256 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 257 "
+> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 258 "> " 0 "" {MPLTEXT 1 0 
+0 "" }}}{EXCHG {PARA 259 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 
+260 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 261 "> " 0 "" {MPLTEXT
+ 1 0 0 "" }}}{EXCHG {PARA 262 "" 0 "" {TEXT 209 36 "Problem 3: A speci
+al critical point:" }}{PARA 0 "" 0 "" {TEXT 221 331 "Repeat problem 1 \+
+with f(x)=tan(x)-x.  Notice that this function is always increasing bu
+t the slope is zero at one point between -1.5 and 1.5.  Explain.      \+
+Can a point be a critical point even though it isn't a local minimum n
+or a local maximum?  Examine the graph near that point.  What is its l
+inear approximation at that point?" }}{PARA 0 "" 0 "" {TEXT 221 0 "" }
+}}{EXCHG {PARA 263 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 264 "> 
+" 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 265 "> " 0 "" {MPLTEXT 1 0 0 
+"" }}}{EXCHG {PARA 266 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 267
+ "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 268 "> " 0 "" {MPLTEXT 1 
+0 0 "" }}}{EXCHG {PARA 269 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG 
+{PARA 270 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 271 "> " 0 "" 
+{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 272 "> " 0 "" {MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 273 "" 0 "" {TEXT 209 52 "Problem 4:  Locating the intere
+sting part of a graph" }}{PARA 0 "" 0 "" {TEXT 221 405 "a)  The graph \+
+of f(x)=x^2-200x+10101   is a parabola but it is difficult to choose g
+ood x and y bounds to make it look like one. The best way to graph it \+
+well is to find the location of its local minimum.  A graph switches f
+rom decreasing to increasing at a local minimum, so it has a critical \+
+point there.  You can find it by solving  D(f)(x)=0.   Then graph f,  \+
+making sure to include the local minimum." }}{PARA 0 "" 0 "" {TEXT 
+221 53 "b)  repeat part a) with f(x)= 202x-x^2   and comment." }}
+{PARA 0 "" 0 "" {TEXT 221 0 "" }}}{EXCHG {PARA 274 "> " 0 "" {MPLTEXT 
+1 0 0 "" }}}{EXCHG {PARA 275 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG 
+{PARA 276 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 277 "> " 0 "" 
+{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 278 "> " 0 "" {MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 279 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 280 "> " 
+0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 281 "> " 0 "" {MPLTEXT 1 0 0 ""
+ }}}{EXCHG {PARA 282 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 283 "
+> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 220 11 "Exp
+loration" }{TEXT 221 181 ": Examine other graphs of functions and thei
+r derivatives to study where the function increases and decreases.  So
+me functions to look at are sqrt(6-x), 1/x, x-2/x and/or 1/(1+x^2)." }
+}}{EXCHG {PARA 284 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 285 "> 
+" 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 286 "> " 0 "" {MPLTEXT 1 0 0 
+"" }}}{EXCHG {PARA 287 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 288
+ "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 289 "> " 0 "" {MPLTEXT 1 
+0 0 "" }}}{EXCHG {PARA 290 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG 
+{PARA 291 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 292 "> " 0 "" 
+{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 293 "> " 0 "" {MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT 221 0 "" }}}}
+{MARK "0 0 0" 0 }{VIEWOPTS 1 1 0 1 1 1803 1 1 1 1 }{PAGENUMBERS 0 1 2
+ 33 1 1 }

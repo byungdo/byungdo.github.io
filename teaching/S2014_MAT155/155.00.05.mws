@@ -1,0 +1,118 @@
+{VERSION 5 0 "IBM INTEL NT" "5.0" }
+{USTYLETAB {CSTYLE "Maple Input" -1 0 "Courier" 0 1 255 0 0 1 0 1 0 0 
+1 0 0 0 0 1 }{CSTYLE "2D Math" -1 2 "Times" 0 1 0 0 0 0 0 0 2 0 0 0 0 
+0 0 1 }{CSTYLE "2D Comment" 2 18 "" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 }
+{CSTYLE "" -1 256 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 
+257 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 258 "" 0 1 0 0 
+0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 259 "" 0 1 0 0 0 0 0 1 0 0 0 0 
+0 0 0 1 }{CSTYLE "" -1 260 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }
+{CSTYLE "" -1 261 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 
+262 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 263 "" 0 1 0 0 
+0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 264 "" 0 1 0 0 0 0 0 1 0 0 0 0 
+0 0 0 1 }{CSTYLE "" -1 265 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }
+{CSTYLE "" -1 266 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 
+267 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 268 "" 0 1 0 0 
+0 0 1 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 269 "" 0 1 0 0 0 0 0 1 0 0 0 0 
+0 0 0 1 }{CSTYLE "" -1 270 "" 0 1 0 0 0 0 1 1 0 0 0 0 0 0 0 1 }
+{CSTYLE "" -1 271 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 
+272 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 273 "" 0 1 0 0 
+0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 274 "" 0 1 0 0 0 0 0 1 0 0 0 0 
+0 0 0 1 }{PSTYLE "Normal" -1 0 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 0 
+0 0 0 0 0 0 0 1 }0 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "" 0 256 1 
+{CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }0 0 0 -1 -1 -1 0 
+0 0 0 0 0 -1 0 }{PSTYLE "" 0 257 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 
+1 0 0 0 0 0 0 0 1 }0 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "" 0 258 
+1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 1 1 0 0 0 0 0 0 0 1 }0 0 0 -1 -1 -1 
+0 0 0 0 0 0 -1 0 }}
+{SECT 0 {EXCHG {PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 257 "" 0 "" 
+{TEXT -1 63 "MAT 155                 Project V                     Fal
+l 2002" }}{PARA 0 "" 0 "" {TEXT 260 63 "                  Limits and V
+ertical Asymptotes               " }{TEXT -1 11 "           " }}{PARA 
+0 "" 0 "" {TEXT -1 0 "" }{MPLTEXT 1 0 0 "" }}}{PARA 0 "" 0 "" {TEXT 
+-1 1 " " }{MPLTEXT 1 0 0 "" }}{EXCHG {PARA 0 "" 0 "" {TEXT -1 0 "" }}
+{PARA 0 "" 0 "" {TEXT 258 25 "Do not work on this file." }{TEXT -1 
+118 "  This is just the list of problems.  Open your own file and save
+ it regularly as yourname5.mws and as yourname5b.mws." }{TEXT 259 1 " \+
+" }{TEXT -1 274 " Sign your name as a comment at the top of your file \+
+by backspacing in front of the prompt and typing.  Also write Project \+
+V and the names of any other students you are working with.  Don't for
+get to number your problems and to type restart at the beginning of ea
+ch problem." }}}{EXCHG {PARA 256 "" 0 "" {TEXT -1 1 " " }}{PARA 0 "" 
+0 "" {TEXT 256 89 "If you cannot complete a problem, go on to the next
+ one and return to the problem later. " }{TEXT -1 30 " Just be sure to
+ keep all your" }{TEXT 263 19 " problems in order " }{TEXT -1 12 "on t
+he file." }{TEXT 264 1 " " }{TEXT -1 10 "  You can " }{TEXT 257 16 "ge
+t a new prompt" }{TEXT -1 91 " by selecting the prompt button right be
+low the word \"spreadsheet\".  It has the symbol \"[>\"" }{TEXT 265 1 
+" " }{TEXT -1 144 "on it.  You must hit enter on every line of the pro
+blem in order, including the restart line, to review what you've done \+
+for the Maple program. " }{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT -1 1 " " }}{PARA 0 "" 0 "" {TEXT 261 31 "If you cannot recall a \+
+command " }{TEXT -1 160 "from a previous lab you may consult the comma
+nd index which can be opened up as a second window.  The name of the f
+ile with the command index is 155.00.00.html." }}{PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 262 41 "Problem 1: C
+omputing Limits Analytically:" }{TEXT -1 37 "  To compute the followin
+g limit:    " }{XPPEDIT 18 0 "limit((x^2-9)/(x-3),x = 3);" "6#-%&limit
+G6$*&,&*$%\"xG\"\"#\"\"\"\"\"*!\"\"F+,&F)F+\"\"$F-F-/F)F/" }}}{EXCHG 
+{PARA 0 "" 0 "" {TEXT -1 36 "a) First define the function f(x) = " }
+{XPPEDIT 18 0 "(x^2-9)/(x-3);" "6#*&,&*$%\"xG\"\"#\"\"\"\"\"*!\"\"F(,&
+F&F(\"\"$F*F*" }}{PARA 0 "" 0 "" {TEXT -1 104 "Type in the command and
+ be careful to use parenthesis correctly! Consult the command index if
+ necessary." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT 
+-1 49 "b) Check what happens if you try to compute f(3)." }}{PARA 0 "
+" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 196 "c) Then use the s
+implify command (see the command index) to simplify f so that and call
+ the simplified version g(x).  Note that g(x) agrees with f everywhere
+ except at x=3 where f is undefined. So" }}{PARA 0 "" 0 "" {XPPEDIT 
+18 0 "limit(f(x) = limit(g(x),x = 3),x = 3);" "6#-%&limitG6$/-%\"fG6#%
+\"xG-F$6$-%\"gG6#F*/F*\"\"$/F*F1" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 
+63 "d)  Now find the limit of g(x) using direct substitution: g(3);" }
+}{PARA 0 "" 0 "" {TEXT -1 58 "e)  Finally use the limit command (see t
+he command index) " }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 
+"" 0 "" {TEXT 267 43 "Problem 2: Computing Limits Analytically:  " }
+{TEXT -1 23 "Do steps a-e to compute" }{XPPEDIT 18 0 "limit((x^5-3*x^4
+-16*x^3+48*x^2)/(x^2-9),x = 3);" "6#-%&limitG6$*&,**$%\"xG\"\"&\"\"\"*
+&\"\"$F+*$F)\"\"%F+!\"\"*&\"#;F+*$F)F-F+F0*&\"#[F+*$F)\"\"#F+F+F+,&*$F
+)F7F+\"\"*F0F0/F)F-" }}}{EXCHG {PARA 258 "" 0 "" {TEXT -1 44 "Have you
+ been remembering to save your work?" }}{PARA 0 "" 0 "" {TEXT -1 0 "" 
+}}{PARA 0 "" 0 "" {TEXT 266 10 "Problem 3:" }{TEXT -1 1 " " }{TEXT 
+269 29 "Verifying Limits Graphically:" }{TEXT -1 111 " Go back to prob
+lems 1 and 2 and add a step f)  plot f(x) for x in [2,4] and confirm y
+our limits graphically.  " }{TEXT 268 8 "Use the " }{TEXT -1 2 "[>" }
+{TEXT 270 52 " button to insert a prompt to add these extra lines." }}
+}{EXCHG {PARA 0 "" 0 "" {TEXT -1 1 " " }}{PARA 0 "" 0 "" {TEXT 271 32 
+"Problem 4: A Vertical Asymptote:" }{TEXT -1 51 "   If we try to use s
+teps a-e from above to compute" }{XPPEDIT 18 0 "limit((x+3)/(x^2-9),x \+
+= 3);" "6#-%&limitG6$*&,&%\"xG\"\"\"\"\"$F)F),&*$F(\"\"#F)\"\"*!\"\"F/
+/F(F*" }{MPLTEXT 1 0 1 " " }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 295 "the
+n we get a problem.  When we try to use direct substitution,  g(3) it \+
+still has a division by 0 error.  When we use the limit command we are
+ given the answer undefined.  If we graph the function for x in [2,4] \+
+we also have trouble, so try the plot command  with y values as well a
+s x values: " }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 32 "plot(f(x), \+
+x=2..4, y=-100..100);" }{TEXT -1 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 
+-1 326 "Now we can see that there is a vertical asymptote, so the limi
+t is undefined. We can also say that the limit from the left is - infi
+nity and the limit from the right is positive infinity because the gra
+ph goes down to - infinity on the left of the asymptote and comes down
+ from positive infinity on the right of the asymptote." }}{PARA 0 "" 
+0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 31 "Repeat this process \+
+to compute " }{XPPEDIT 18 0 "limit((x^2-16)/((x-3)^2),x = 3);" "6#-%&l
+imitG6$*&,&*$%\"xG\"\"#\"\"\"\"#;!\"\"F+*$,&F)F+\"\"$F-F*F-/F)F0" }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 79 "Be
+fore going on to the exploration be sure that you have done all the pr
+oblems." }{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 0 "" }}
+{PARA 0 "" 0 "" {TEXT 272 14 "Exploration:  " }}{PARA 0 "" 0 "" {TEXT 
+273 3 "A: " }{TEXT -1 93 "   Graph  x/(x+1) and tan(x) and find the ve
+rtical asmptotes.  Redo the graphs with y bounds." }}{PARA 0 "" 0 "" 
+{TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT 274 2 "B:" }{TEXT -1 15 "    Let
+ f(x) = " }{XPPEDIT 18 0 "(x^4+14*x^3+71*x^2+154*x+120)/(x^3+6*x^2+11*
+x+6);" "6#*&,,*$%\"xG\"\"%\"\"\"*&\"#9F(*$F&\"\"$F(F(*&\"#rF(*$F&\"\"#
+F(F(*&\"$a\"F(F&F(F(\"$?\"F(F(,**$F&F,F(*&\"\"'F(*$F&F0F(F(*&\"#6F(F&F
+(F(F7F(!\"\"" }{TEXT -1 176 ".  Find out the values of x for which thi
+s function is undefined. Hint: use the solve command.  Then find the l
+imit as x approaches each of these three values both analytically" }}
+{PARA 0 "" 0 "" {TEXT -1 72 "and graphically.  Hint:  for some of the \+
+graphs you may need y bounds.  " }}}}{MARK "0 1 0" 63 }{VIEWOPTS 1 1 
+0 1 1 1803 1 1 1 1 }{PAGENUMBERS 0 1 2 33 1 1 }

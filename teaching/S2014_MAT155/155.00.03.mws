@@ -1,0 +1,181 @@
+{VERSION 5 0 "IBM INTEL NT" "5.0" }
+{USTYLETAB {CSTYLE "Maple Input" -1 0 "Courier" 0 1 255 0 0 1 0 1 0 0 
+1 0 0 0 0 1 }{CSTYLE "" -1 256 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }
+{CSTYLE "" -1 257 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 
+258 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 259 "" 0 1 0 0 
+0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 260 "" 0 1 0 0 0 0 0 1 0 0 0 0 
+0 0 0 1 }{CSTYLE "" -1 261 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }
+{CSTYLE "" -1 262 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 
+263 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 264 "" 0 1 0 0 
+0 0 1 0 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 265 "" 0 1 0 0 0 0 1 0 0 0 0 0 
+0 0 0 1 }{CSTYLE "" -1 266 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }
+{CSTYLE "" -1 267 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 
+270 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 271 "" 0 1 0 0 
+0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 273 "" 0 1 0 0 0 0 0 1 0 0 0 0 
+0 0 0 1 }{PSTYLE "Normal" -1 0 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 0 
+0 0 0 0 0 0 0 1 }0 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "Maple Outpu
+t" 0 11 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 }3 3 0 
+-1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "Maple Plot" 0 13 1 {CSTYLE "" -1 
+-1 "" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 }3 0 0 -1 -1 -1 0 0 0 0 0 0 -1 
+0 }{PSTYLE "" 0 256 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 
+0 1 }0 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "" 0 257 1 {CSTYLE "" 
+-1 -1 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }0 0 0 -1 -1 -1 0 0 0 0 0 0 
+-1 0 }{PSTYLE "" 0 258 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 1 0 0 0 0 
+0 0 0 1 }0 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "" 0 259 1 {CSTYLE "
+" -1 -1 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }0 0 0 -1 -1 -1 0 0 0 0 0 
+0 -1 0 }{PSTYLE "" 0 260 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 1 0 0 0 
+0 0 0 0 1 }0 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "" 0 261 1 
+{CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }0 0 0 -1 -1 -1 0 
+0 0 0 0 0 -1 0 }{PSTYLE "" 0 262 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 1 
+0 0 0 0 0 0 0 0 1 }0 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "" 0 263 
+1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }0 0 0 -1 -1 -1 
+0 0 0 0 0 0 -1 0 }{PSTYLE "" 0 264 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 
+0 1 0 0 0 0 0 0 0 1 }0 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }}
+{SECT 0 {EXCHG {PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 256 "" 0 "" 
+{TEXT -1 66 "MAT 155                 Project III                      \+
+Fall 2002" }}{PARA 257 "" 0 "" {TEXT -1 44 "                          \+
+  Examining Graphs" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }{MPLTEXT 1 0 0 "
+" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 1 " " }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT -1 1 " " }{TEXT 256 25 "Do not work on this file." }{TEXT -1 38 
+"  This is just the list of problems.  " }{TEXT 257 18 "Open your own \+
+file" }{TEXT -1 82 " by selecting \"File\" on the Maple V bar and choo
+sing \"New\".  Save the new file as " }{TEXT 258 14 "yourname3.mws " }
+{TEXT -1 7 "and as " }{TEXT 259 14 "yourname3b.mws" }{TEXT -1 41 " reg
+ularly using the \"save as\" command.  " }{TEXT 260 81 "Be careful not
+ to save this file with that name or you will overwrite your work! " }
+{TEXT -1 247 " This window should always have 155.00.03.mws printed on
+ the top.    If you click on the button on this window next to the X (
+the one marked with two boxes) then you will be able to see this file \+
+and your file at the same time.  You can adjust the" }}{PARA 0 "" 0 "
+" {TEXT -1 52 "sizes of the windows displaying each file as needed." }
+}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT 263 30 "Do not \+
+hit return on this file" }{TEXT -1 122 " or the computer will remember
+ it when working on your file and may overwrite variables and function
+s that you've defined." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 
+0 "" {TEXT 261 89 "Sign your name as a comment at the top of your file
+ by backspacing in front of the prompt" }{TEXT -1 104 " and typing it \+
+in.  Also write Project III and the names of any other students who ar
+e working with you." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "
+" {TEXT 262 28 "At the start of each problem" }{TEXT -1 160 " in your \+
+file, backspace in front of the prompt and type the Problem Number 1 o
+r Problem Number 2 etc.  Then hit return and on the first line with a \+
+prompt type" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 8 "restart;" }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT -1 36 "This will clear all previous work.
+  " }{TEXT 264 48 "Also remember to save your file with both names." }
+}{PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 258 "" 0 "" 
+{TEXT -1 86 "Do all the problems in order.  Ask a student or the teach
+er if you are having trouble." }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 0 "" }}}{EXCHG {PARA 259 "" 0 "" {TEXT -1 41 "Problem 1:  Solving a \+
+quadratic equation." }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 51 "Define a f
+unction f(x)= x^2+5x+6 using the command:" }{MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 20 "f:= x -> x^2 +5*x+6;" }
+{TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}}{EXCHG {PARA 0 "" 0 "
+" {TEXT -1 72 "To find out where f(x)=0, there are several methods.  Y
+ou can factor it:" }{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 13 "factor(f(x));" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 
+176 "So that you see that it is zero at the two roots: x = 3 and x = 2
+.  Note that if f(x) has no rational solutions then Maple cannot facto
+r it.  Try g(x)=x^2-2 and h(x)= x^2+4x+6." }}{PARA 0 "" 0 "" {TEXT -1 
+31 "You could also use the command " }{MPLTEXT 1 0 0 "" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 17 "solve(f(x)=0, x);" }}}{EXCHG {PARA 
+0 "" 0 "" {TEXT -1 164 "The computer essentially solves the quadratic \+
+equation to get these answers.  It will give you irrational answers wi
+th square root signs and imaginary answers with " }{TEXT 265 7 "I .  I
+ " }{TEXT -1 222 "is just the square root of negative one.  It is not \+
+a real number.  Try the solve command on g(x) and h(x) to see why Mapl
+e couldn't factor them. Write a comment about their solutions by backs
+pacing in front of the prompt." }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 55 
+"Now try graphing f(x), g(x) and h(x) using the command:" }{MPLTEXT 1 
+0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 22 "plot(f(x), x=-10..
+10);" }}{PARA 13 "" 1 "" {TEXT -1 0 "" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT -1 84 "You can focus the graph near where it crosses the x axis \+
+by focussing on x in [-6,0]" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 20 "plot
+(f(x), x=-6..0);" }}{PARA 13 "" 1 "" {TEXT -1 0 "" }}}{EXCHG {PARA 0 "
+" 0 "" {TEXT -1 55 "Does it cross at the correct places?   Write a com
+ment." }{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 87 "Now p
+lot g(x) and h(x) and write comments about the places where they cross
+ the x axis." }{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 260 "" 0 "" {TEXT -1 
+1 " " }}{PARA 261 "" 0 "" {TEXT -1 45 "Problem 2:  Solving more compli
+cated problems" }{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 262 "" 0 "" {TEXT 
+-1 44 "Remember to save your file and type restart;" }{MPLTEXT 1 0 0 "
+" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 204 "Define a function f(x)=cos(x
+)-x and try to solve f(x)=0.  It cannot be factored because it is not \+
+a polynomial and the solve command doesn't work.  However, you can gra
+ph the function, so try to graph it." }}{PARA 0 "> " 0 "" {MPLTEXT 1 
+0 26 "plot(cos(x)-x, x=-10..10);" }}{PARA 13 "" 1 "" {TEXT -1 0 "" }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT -1 365 "This graph appears to cross the x
+ axis only once and it appears to cross near x=1.  It definitely cross
+es the axis somewhere between 0 and 2.  So we can try the fsolve comma
+nd.  This command will try alot of numbers between 0 and 2 until it fi
+nds one that solves f(x)=0.  However, it will only look for one answer
+ and then quit even if there are two answers.  Type:" }}{PARA 0 "> " 
+0 "" {MPLTEXT 1 0 23 "fsolve(f(x)=0, x=0..2);" }}}{EXCHG {PARA 0 "" 0 
+"" {TEXT -1 433 "Now graph the picture again very close to the answer \+
+say x in .5 to 1 and see how it crosses the axis.  Can you be sure tha
+t the function only crosses the axis once?  Maybe it crosses again nea
+r x=100.  One way to be sure it only crosses once would be to show tha
+t the function is decreasing (that its graph  goes down from left to r
+ight).  Later in the semester, we will be able to prove that f(x)=cos(
+x)-x is a decreasing function." }{MPLTEXT 1 0 0 "" }}{PARA 11 "" 1 "" 
+{TEXT -1 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 238 "Try to find a so
+lution to g(x)=(x^2-7)^(1/3) by graphing and using fsolve.  You will h
+ave to find more than one solution by focusing your graph on two diffe
+rent locations and using fsolve twice.  Then check your answer  by gra
+phing again." }{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 
+1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 271 36 "Problem 3:  The irrat
+ional number e:" }}{PARA 0 "" 0 "" {TEXT -1 543 "Let f(x)=(1+x)^(1/x).
+  Notice that this function is undefined at two numbers, x=-1, and x=0
+.  When x=-1 we get f(-1)=(0)^(-1)=1/0 and at x=0 we get f(0)=(1)^(1/0
+).  Any number divided by 0 is undefined.  f(x) is also undefined at x
+=-2 because f(-2)=(-1)^(-1/2)= 1/ (-1)^(1/2) and the square root of ne
+gative one is not a real number.  If x>-1 we don't have to worry about
+ having roots of negative numbers.  So we can say that the domain of f
+ is  (-1,0) u (0, infinity).  What does the function look like near  x
+=0 and x=-1?   Try the command: " }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 28 
+"plot((1+x)^(1/x), x=-1...1);" }}{PARA 13 "" 1 "" {TEXT -1 0 "" }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT -1 209 "f(x) is going to infinity near x=
+-1.  This is called a vertical asmptote.  However, near x=0, the funct
+ion's graph appears  to be perfectly nice.  You might even think that \+
+f(x)=(1+x)^(1/x) is defined at zero." }}{PARA 0 "" 0 "" {TEXT -1 0 "" 
+}}{PARA 0 "" 0 "" {TEXT -1 410 "Suppose you say that 1/0=infinity.  Th
+en f(0)=(1+0)^(infinity)=1^(infinity)=infinity.   This doesn't make se
+nse.  It doesn't help you guess where the graph appears to cross the x
+ axis.  Instead you must focus on x values near 0 and see where it app
+ears to cross.  Focus the graph very close to x=0.  Try plotting it fr
+om x=-0.1 to 0.1.  Write a comment estimating the number where the gra
+ph appears to cross.  " }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 
+0 "" {TEXT -1 42 "Now plot the graph from x=-0.01 to 0.01.  " }{TEXT 
+270 92 "Remember you can cut and paste your plot command onto a new li
+ne and just edit the x values." }{TEXT -1 126 "   Then write a comment
+ telling where it appears to cross.  What is the largest y value on th
+e graph and what is the smallest?" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}
+{PARA 0 "" 0 "" {TEXT -1 144 "Now plot it from x=-0.001 to 0.001 and w
+rite down where it appears to cross.  What is the largest y value on t
+he graph and what is the smallest?" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}
+{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 146 "Now plot
+ it from x=-0.0001 to 0.0001 and write down where it appears to cross.
+  What is the largest y value on the graph and what is the smallest?" 
+}}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}
+{PARA 0 "" 0 "" {TEXT -1 148 "Now plot it from x=-0.00001 to 0.00001 a
+nd write down where it appears to cross.  What is the largest y value \+
+on the graph and what is the smallest?" }}{PARA 0 "" 0 "" {TEXT -1 0 "
+" }}{PARA 0 "" 0 "" {TEXT -1 123 "Even though f(0) is not defined, we \+
+know that as x gets closer and closer to 0, f(x) gets closer and close
+r to some number." }}{PARA 0 "" 0 "" {TEXT -1 123 "You already know an
+ approximate value for this number.  It turns out that it is an irrati
+onal number.  The number is called" }{TEXT 266 5 " e.  " }{TEXT -1 
+149 "It turrns out that e is as important a number as Pi and sqrt(2) a
+nd is used in many applications of mathematics.  We will see it a lot \+
+in Calculus.  " }{TEXT 267 53 "We say that the limit of f(x) as x appr
+oaches 0 is e." }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 263 "
+" 0 "" {TEXT -1 12 "Exploration:" }{MPLTEXT 1 0 3 "   " }}}{EXCHG 
+{PARA 0 "" 0 "" {TEXT 273 27 "A:  Solving Inequalities.  " }}{PARA 0 "
+" 0 "" {TEXT -1 156 "Let f(x)=x^2 -3x+2 and solve for f(x) >0.  To do \+
+this solve(f(x)=0) and then  graph the function.  Find the x values wh
+ere the graph of f is above the axis." }}{PARA 0 "" 0 "" {TEXT -1 71 "
+Let g(x)= sin(x)-x^2+3 and solve for f(x) less than or equal to zero. \+
+ " }{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 264 "" 0 "" {TEXT -1 18 "B:  Ano
+ther limit:" }{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 
+102 "Let f(x)=(x^5-32)/(x-2).  Discuss where it is defined and check o
+ut the limit where it is not defined." }{MPLTEXT 1 0 0 "" }}}}{MARK "3
+3" 0 }{VIEWOPTS 1 1 0 1 1 1803 1 1 1 1 }{PAGENUMBERS 0 1 2 33 1 1 }
